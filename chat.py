@@ -44,12 +44,9 @@ def get_three_questions() -> List[Tuple[str, str]]:
     Returns a list of three tuples, each containing a button label and a question.
     """
     return [
-        ("What is RAG?", "What is RAG in the context of AI and language models?"),
-        ("How does Solar API work?", "Can you explain how the Solar RAG API works?"),
-        (
-            "Benefits of Solar API?",
-            "What are the main benefits of using the Solar RAG API?",
-        ),
+        ("What's main product?", "What's main product?"),
+        ("Who are the founders?", "Who are the founders?"),
+        ("What's the company's mission?", "What's the company's mission?"),
     ]
 
 
