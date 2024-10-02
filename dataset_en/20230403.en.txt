@@ -1,0 +1,26 @@
+AI startup Upstage's Chat AI 'AskUp' has gained a picture-drawing hand in addition to an eye that reads text.
+
+Upstage announced on the 3rd that it will add image generation functions based on 'Upsketch', an image generation artificial intelligence model fine-tuned with its own technology, to 'AskUp', a leading domestic Chat AI that recently surpassed 500,000 KakaoTalk AskUp channel friends, and open a beta service for 1,000 people on a first-come, first-served basis.
+
+AskUp is a leading domestic Chat AI that combines Upstage's OCR technology and? (question mark) search based on OpenAI's ChatGPT. It has become famous as an 'eye-attached ChatGPT' that can read and answer questions when a user takes a picture of a document, and has surpassed 500,000 people in just 25 days since its launch. It is gaining great attention as an innovative service that provides the latest information and accurate answers by applying GPT-4 and adding a search function that goes one step further from ChatGPT, and recently, 'AskUp Biz' for corporate customers is also receiving great attention.
+
+The image generation function that will start beta service on AskUp this time has two functions: 'Draw it' that creates the desired image and 'Profile' that changes the image to look younger or cooler based on a facial image.
+
+To use the image generation function, you can first enter 'Upsketch beta application!' in the AskUp chat window or press the button at the bottom to agree to the image generation beta use agreement. The beta service period is for 1,000 people on a first-come, first-served basis to freely utilize the image generation function, and the number of users will be gradually expanded in the future.
+
+The 'Draw it' function is a function that generates the desired image after the user enters a description of the desired image. For example, if you enter 'Draw the Northern Lights at night', you can get a beautiful image of the Northern Lights. In addition, you can create images that do not exist in reality, such as 'Draw a space man riding a horse on the moon', and make your imagination a reality. In other words, by utilizing AskUp, you can create not only stories but also new pictures, so you can also create a picture book including illustrations.
+
+The 'Profile' function is a function that modifies a picture by sending a picture centered on a person's face to AskUp and selecting an option that suits your taste. The method of use is simple. When you send a picture, AskUp will provide option buttons such as ▲Draw it cool ▲Draw it young after the message "Would you like to create a new image with this image?" according to gender, and users can select the desired option to create a new profile image.
+
+Upsketch, an image generation model created for AskUp's image generation function, was developed by Kim Sang-hoon, who won the gold medal as the world's No. 1 in the Kaggle competition, which is called the AI Olympics. It is evaluated that it creates the highest level of images that can be created in a mobile environment so far.
+
+The 'Draw it' function and the 'Profile' function for image generation consume 3 credits when used. In other words, you can create up to 33 images with the daily free 100 messages currently provided to channel friends.
+
+Upstage announced that it will extend the 'Hundred Questions and Answers' event, which gave daily free 100 message benefits to 500,000 users of AskUp, for one month until the end of this month. In addition, the AskUp challenge, which shares various ways of using AskUp in daily life on your own SNS with three hashtags such as #AskUp #AskUp #AskUpChallenge, will also be held until April 21. All users who participate in the challenge can receive an additional 100 free message credits once per person.
+
+Upstage expects that with the addition of the image generation function this time, users will be able to use AskUp in various ways through the extended Hundred Questions and Answers event, SNS challenge, and additional credits provided through various events.
+
+Upstage CEO Kim Sang-hoon said, "AskUp has expanded its convenience by adding an image generation function so that users can conveniently obtain the desired image." He added, "Currently, the function is provided to 1,000 people on a first-come, first-served basis, but we plan to gradually increase the number of people. We will do our best to provide a differentiated experience to reward the tremendous interest and support of 500,000 users in less than a month."
+
+Meanwhile, detailed information on the 'AskUp Challenge' and the survey event can be found on the KakaoTalk 'AskUp' channel. AskUp channel friends can be easily added by searching for 'AskUp' or 'AskUp' on KakaoTalk.
+

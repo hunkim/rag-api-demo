@@ -1,0 +1,18 @@
+Upstage shares insights for enhancing companies' digital competitiveness using the latest optical character recognition (OCR) technology.
+
+Upstage (CEO Kim Sung-hoon) announced on the 21st that it will hold an online webinar 'Upstage Talk' to share the use of AI OCR technology under the theme of 'Digitize Anything! Creating Our Company's Own Data with Digital Assetization' on December 14th and 19th.
+
+OCR is a technology that extracts characters in an image as text data. Companies can use it to convert various types of documents into digital assets, maximizing work efficiency such as document automation and knowledge database construction, and are attracting attention as an element to strengthen core competitiveness in the AI era.
+
+In response, Upstage will share the optimal AI OCR utilization method based on the industry's best technology proven by winning international conferences and competitions. Upstage's AI experts will be lined up as speakers on the topics of ▲ AI Product Planning-Development-Delivery ▲ How to Develop a High-Performance Information Extraction Model ▲ From Documents to Knowledge, Creating Our Company's Own Data with Digital Assetization ▲ Taking Business to the Next Level with AI OCR.
+
+On the 14th, the first day, the company will release technical know-how for current developers. Upstage's Lee Jun-yeop, LLM Application Lead, will introduce the entire process from planning to development and delivery based on the experience of developing actual AI OCR products. Next, Upstage's Park Sung-rae, Document AI Lead, will share insights into the development of information extraction models, from data construction to model learning and development, and evaluation of models.
+
+Then, in the session on the 19th, the business aspect will be highlighted. Upstage's Park Eun-jung, CSO (Chief Scientific Officer), will take the stage as a speaker to point out the differences in AI OCR technology and the importance of digital assetization, and will introduce in detail how to use 'Upstage Console', which allows easy introduction of AI OCR in the form of API. Next, Upstage's Cho Min-soo, Document AI Business Development Lead, will present the company's successful introduction plan, including business performance and expected effects through the introduction of AI OCR, based on actual customer cases.
+
+This Upstage Talk will be held online live on December 14th at 8 p.m. and December 19th at 2 p.m. Pre-participation applications will be available through the Upstage website (www.upstage.ai) from November 21st to the day of the event, and anyone interested in the latest AI technology trends can participate.
+
+Upstage CEO Kim Sung-hoon said, "In order to create value by utilizing documents, which are the core assets of companies, digital assetization using the latest technology such as AI OCR is essential." He added, "In the future, Upstage will lead the digital transformation of companies based on the industry's best technology."
+
+Meanwhile, if you access Upstage Console, you can easily introduce Upstage's high-performance AI OCR technology in the form of API. Through this, you can reduce costs and time by up to 82% compared to manual work, and utilize Upstage Document AI, which realizes document automation with a minimum of learning using a pre-trained model. A special event is also underway to provide API credits worth 30,000 won until December 31st if you sign up.
+

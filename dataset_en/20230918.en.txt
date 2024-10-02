@@ -1,0 +1,22 @@
+Upstage stands shoulder to shoulder with global generative AI representatives.
+
+Upstage, a leading AI startup in Korea, announced on the 18th that its LLM model 'SOLAR' (hereinafter referred to as Sola) has been registered as a main model on the global generative AI utilization platform 'Poe'.
+
+Upstage Sola is an abbreviation for 'Specialized and Optimized Llm and Applications with Reliability', and Upstage developed Sola based on its own Hugging Face No. 1 model, which surpasses ChatGPT.
+
+Poe is operated by global knowledge service Quora, and it is a global representative generative AI platform that allows users to talk to various AI models and create their own chatbots by entering the desired prompt. Poe is more popular because it allows users to utilize thousands of generative AI models, including famous LLM models and models created by individuals.
+
+Upstage's Sola has been registered as a main official model that is highly accessible by directly viewing it on the main page through cooperation with Poe. The main models of Poe are evaluated as a standard for high-performance models, with only four companies' LLMs listed, including OpenAI ChatGPT, Google Palm, Meta Llama, and Anthropic Claude. The addition of Upstage Sola as a main model is the first for a domestic LLM model, and it is recognized for its performance that is on par with the world's leading generative AI companies.
+
+Upstage Sola focuses on domain specialization and optimization, and aims to be a private LLM that can prevent information leakage and hallucination by learning corporate data. This is attracting attention as an alternative to solve the internal data leakage concerns and hallucination that provide incorrect information, which are the chronic problems of generative AI.
+
+The private LLM based on Upstage Sola is customized to suit the characteristics and requirements of companies, and is expected to provide better performance even with a lightweight model size. Through this, companies can significantly reduce the cost of introduction and operation while increasing accuracy and security.
+
+Recently, discussions have been expanded due to the advantages of Upstage's private LLM, such as high performance, reliability and cost-effectiveness, starting with cooperation with Connect Wave and Lotte Shopping to apply generative AI services. In the e-commerce and distribution industry, it is planned to apply customer-customized marketing, AI-based customer consultation, and automatic ordering system based on demand forecasting by utilizing the Sola model.
+
+Upstage will accelerate the development of private LLM with leading companies in various industries, starting with e-commerce. Upstage is also collaborating with top companies in various industries, including financial companies such as Hanwha Life Insurance, Samsung Life Insurance, and KB, as well as POSCO, KT, LG U+, Lotte On, Brandi Amorepacific, and others, through solutions such as Document AI for document automation and Seargest for search and recommendation functions.
+
+Upstage plans to do its best to introduce Sola to the global market through cooperation with Poe, secure multilingual data and models, and connect them to the utilization of global companies.
+
+Upstage CEO Kim Sung-hoon said, "I think Upstage's Sola is a representative example of the technology and potential of domestic AI startups." "We will do our best to introduce Sola to the global market through cooperation with Poe and provide private LLM services in various fields."
+

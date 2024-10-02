@@ -1,0 +1,18 @@
+Upstage, a leading AI company in Korea, will share the know-how of successfully applying AI OCR technology, the beginning of digital transformation.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 18th that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) on the 31st to share the secret to successful service introduction of AI technology under the theme of 'AI OCR Adoption Success Equation'.
+
+'Upstage Talks' is a widely known event that started as an in-house technical lecture of Upstage for 20 years, and has been widely known through the sharing of Upstage's world-class performance in the Kaggle competition and lectures by software developers working at AI companies. This year, it is held on a regular basis every month and is receiving a hot response from companies and the public interested in AI.
+
+This Upstage Talks will be presented by Lee Hwal-seok, Chief Technology Officer (CTO) of Upstage, who served as the former head of Naver Clova Visual AI, and will guide companies that have had difficulty in adopting AI OCR to the shortcut to success. The presentation will be conducted in the order of ▲AI adoption process ▲difficulties in technology adoption such as limitations of rule-based learning ▲AI technology trends ▲AI OCR adoption solutions based on various real cases of companies.
+
+Lee Hwal-seok, CTO of Upstage, is a top OCR expert who is called from various countries around the world such as France and Spain for his various achievements such as winning the global competition of OCR in China, where the language is different, and achieving 1,000 citations of papers. Through this 'Upstage Talks', he will share his know-how gained by conducting consulting to help more than 100 companies adopt AI. It is open to anyone who wants to hear the AI technology trend and vivid cases of OCR technology adoption, including CEOs and executives who are working hard for business innovation and success.
+
+This event will be held online live from 8 p.m. on the 31st. Pre-participation applications will be available for two weeks from the 18th to the 30th through the Upstage website (www.upstage.ai) and the event page (https://bit.ly/ai-ocr-adoption-rule-pr).
+
+Kim Sung-hoon, CEO of Upstage, said, "This month's Upstage Talks will provide a new perspective to all corporate customers who want to focus more on the essence of their work by presenting AI technology trends and problem-solving solutions based on the experience of Lee Hwal-seok, CTO, the world's top OCR expert, and various real cases of companies that have experienced difficulties in adopting AI OCR." He added, "We plan to hold events through fun planning in the future to provide insights into AI and business to corporate customers who are having difficulty adopting AI."
+
+Meanwhile, Upstage plans to launch a no-code-low-code solution 'Upstage AI Pack' that can easily apply the latest AI technology to various industries based on its AI technology leadership proven by papers published at international AI conferences such as ECCV 2022, NeurlPS, ICLR, CVPR, and WWW last month, and winning more than 10 gold medals in Kaggle.
+
+Through 'AI Pack', Upstage will help customers use three AI technologies at once, including OCR technology, recommendation technology considering customer information and product and service features, and natural language processing search technology that enables semantic-based search. By using 'Upstage AI Pack', you can easily use data processing, AI modeling, and metric management, and can conveniently use the latest AI technology that is constantly updated.
+

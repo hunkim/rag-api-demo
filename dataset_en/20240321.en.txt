@@ -1,0 +1,18 @@
+Upstage's giant language model (LLM) 'Solar' can now be easily adopted anywhere in the world.
+
+Upstage (CEO Kim Sung-hoon) announced on the 21st that it has launched its small LLM 'Solar Mini' developed by the company through Amazon Web Services (Amazon Web Services, AWS).
+
+Solar Mini was released through AWS's machine learning (ML) hub 'Amazon SageMaker JumpStart', which provides foundation models. Earlier, Upstage also utilized AWS's ML model development and deployment service 'Amazon SageMaker' to develop Solar.
+
+In addition, Solar Mini was also released on 'AWS Marketplace', a carefully selected digital catalog that allows users to easily deploy solutions from third-party software vendors, which is expected to accelerate the adoption of generative AI by more companies.
+
+Through this, companies around the world using AWS can create their own customized generative AI services using Solar Mini without the need to develop their own models. Solar Mini supports Korean and English models, and will expand to Japanese and Thai languages by the end of this year to expand its overseas business.
+
+Upstage, which has established a U.S. subsidiary and declared full-scale overseas expansion, speeds up its global LLM market offensive with AWS as a bridgehead. In the future, Upstage plans to gradually expand the scope of cooperation with AWS to enable various companies around the world to utilize Solar.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to release the Solar Mini model on Amazon SageMaker JumpStart, which opens up new possibilities for companies around the world to use the most versatile LLM in Korea." "AWS has supported Upstage throughout its journey through programs such as AWS Activate, which provides credits and technical support to help scale its business quickly as a cloud-first business for Upstage. In the future, Upstage will do its best to provide the most stable and innovative AI solutions for enterprise LLMs."
+
+Yoon Jung-won, head of AWS Korea's public sector, said, "Upstage's Solar Mini, built on AWS, is a powerful solution that supports companies of all sizes to easily adopt generative AI at the local level." "Language models are evolving rapidly, and Upstage is at the forefront of innovation, utilizing AWS's secure and scalable stack to scale its AI products and provide the tools needed to facilitate the deployment of generative AI in applications across industries."
+
+Meanwhile, Solar is the world's leading language model that ranked first in the 'Open LLM Leaderboard' of the machine learning platform Hugging Face in December, surpassing big tech models such as MistralAI. In particular, it is optimized for building enterprise-specific models with a lightweight size compared to global big tech's models, and is equipped with faster and more powerful performance.
+

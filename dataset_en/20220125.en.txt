@@ -1,0 +1,20 @@
+The first 'AI Olympics' Kaggle competition of the year saw domestic AI startup Upstage win the silver medal.
+
+Upstage (https://www.upstage.ai/) announced on the 25th that it has won the silver medal by ranking second in the world's most famous online artificial intelligence (AI) competition, Kaggle, which is participated by 9 million people from 200 countries.
+
+Kaggle is a data expert community and artificial intelligence competition platform owned by Google, and it operates a rating and ranking system to gauge the objective ability of AI experts around the world. It ranks and ranks based on the results of competitions that solve problems of various companies with AI, and the ratings are divided into five grades: Grandmaster, Master, Expert, Contributor, and Novice. There are only 248 Grandmasters in the world, the highest grade.
+
+This Kaggle artificial intelligence competition was hosted by Optiver, a global financial company, and the 'Optiver Realized Volatility Prediction' competition was held with the goal of predicting the short-term volatility of stock prices with a machine learning algorithm and setting the optimal price of the buying and selling volume. The competition, which lasted about seven months from June, was participated by 3,852 teams to compete for AI technology, and Kim Yoon-soo, a Grandmaster at Upstage, won the gold medal by ranking second overall.
+
+In this competition, participants built a model to predict the short-term volatility of stock prices for the next 10 minutes with the previous 10 minutes of stock quotes and transaction data for hundreds of stocks for three months, and then compared it with the actual market data collected for three months. After that, the accuracy of the model's prediction was evaluated. Upstage improved the performance of the machine learning algorithm to increase the predictive consistency and achieved a result of the top 0.05%.
+
+In particular, Kim Yoon-soo, a Grandmaster who won the medal in this competition, was named the sixth Kaggle Grandmaster in Korea last year at the youngest age. Kim Yoon-soo, a grandmaster and an undergraduate student at Seoul National University, has been building practical skills in AI technology development by experiencing the field through mentoring by Upstage experts since last year when he joined the Global Residency program, an AI talent development program at Upstage. Based on this, he has won five gold medals in the world's artificial intelligence competitions since last year and ranked 19th in the Kaggle global ranking.
+
+As a result, as of January 2022, two out of 20 people in the top 20 AI technologies in the world are Koreans, accounting for 10% of the total. All Korean Grandmasters, including Kim Yoon-soo, Grandmaster, and Kim Sang-hoon, who are leading the competition team, are affiliated with Upstage.
+
+In addition to winning the Kaggle competition, Upstage is planning to launch 'AI Pack', which allows the latest AI technology to be easily applied to various industries, based on its AI technology leadership proven by papers published in international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP.
+
+'AI Pack' is a one-stop solution that helps customers use AI technology customized, such as OCR technology that can extract and use desired information from images, high-performance natural language processing search technology that can search for information similar in meaning, and recommendation technology that considers customer information and product and service features. Through Upstage's 'AI Pack', customers can use the latest AI technology in the field at all times through continuous updates, not just data processing and AI modeling.
+
+Kim Yoon-soo, a Grandmaster, said, "I am glad to have won another gold medal after winning the first place in the Shopee competition and the Commonlit competition that became a Grandmaster last year." He added, "After joining the Upstage Global Residency, I have received a lot of help from Kim Sang-hoon, a Grandmaster, and I will continue to work hard to become a better AI developer."
+

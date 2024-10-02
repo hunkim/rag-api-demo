@@ -1,0 +1,17 @@
+Upstage is accelerating the development of the world's best large language model (LLM) in collaboration with the Artificial Intelligence Industry Convergence Promotion Agency (hereinafter referred to as the AI Promotion Agency).
+
+Upstage (CEO Kim Sung-hoon) announced on the 18th that it has signed a 'Memorandum of Understanding for the Development of Artificial Intelligence Industry and Convergence Activation' with the AI Promotion Agency. The two organizations held a signing ceremony at the AI Promotion Agency's conference room, with key officials including Upstage CTO Lee Hwal-seok and AI Promotion Agency Head Kwak Jae-do in attendance.
+
+In order to develop LLM, which is the basis of generative AI technology that has emerged as a key national competitiveness, it is essential to secure graphics processing units (GPU) worth at least hundreds of billions of won. In particular, securing GPU is a big burden for startups that cannot invest a lot of capital, so infrastructure support at the national level is essential to strengthen AI competitiveness.
+
+In response, the AI Promotion Agency has signed a business agreement with Upstage and will provide GPU equipment it has through the Gwangju AI Convergence Complex Data Center. Through this, it plans to actively cooperate in supporting infrastructure and facilities for the entire process of LLM development, from model learning to data preprocessing.
+
+In addition, the two organizations will also join hands to strengthen the competitiveness of the domestic AI industry in various fields, including ▲cooperation in linking new business planning and task discovery ▲cooperation in collecting and utilizing artificial intelligence data ▲establishment of a network to promote technology exchange ▲cooperation in supporting companies for the spread of artificial intelligence technology.
+
+Through this agreement, Upstage will utilize the GPU computing resources of the AI Promotion Agency and will embark on full-fledged LLM enhancement. Previously, Upstage released a pre-trained LLM called 'Solar' with 10.7 billion parameters, surpassing big techs such as Alibaba and MistralAI and ranking first in the 'Hugging Face Open LLM Leaderboard'. In the future, Upstage will further enhance Solar and focus on conquering the overseas market beyond Korea.
+
+
+Upstage CTO Lee Hwal-seok said, "We are pleased to be able to create a smooth LLM development environment by providing excellent computing resources through this cooperation with the AI Promotion Agency." He added, "In the future, Upstage will accelerate the development of LLM that is comparable to big techs based on its world-class technology."
+
+Kim Joon-ha, head of the AI Promotion Agency, said, "If the environment is created for AI startups to develop LLM by utilizing the Al Data Center computing resources, it is expected to greatly contribute to strengthening the competitiveness of super-large Al in Korea." He added, "We will support the creation of various Al convergence business cooperation models and make every effort to promote the development of the national AI industry and the spread of the AI industry ecosystem."
+

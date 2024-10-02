@@ -1,0 +1,20 @@
+Upstage, a leading AI company in Korea, will hold an event to share cases of business problems that occur in the financial sector and to promote 'data-centric AI' that solves them.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 8th that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) on the 22nd to share the experience of digital innovation in the financial sector through data-based AI.
+
+'Upstage Talks' started as an in-house technical lecture at Upstage in 2000, and has been widely known through sharing of Upstage's world-class performance in the Kaggle competition and lectures by Silicon Valley developers. This year, it is held regularly every month and is receiving a hot response from companies and the public who are interested in AI. In particular, the 'AI OCR Introduction Success Equation' held last month attracted more than 100 attendees throughout the lecture, showing high interest in AI innovation cases.
+
+This Upstage Talks will be held under the title of 'The Need and Core of Data-centric AI', and will feature AWS's Gu Tae-hoon technical partner as a speaker on topics such as ▲business problems in actual field ▲data as the best weapon to solve problems ▲core technologies and methods for applying data-centric AI.
+
+Gu Tae-hoon, a technical partner, served as the head of the data planning department and the head of the AI Innovation Center at KB Kookmin Bank and KB Financial Group, and was called an 'AI evangelist' as he promoted the digital core tasks of KB Financial Group. He is currently supporting technical advice for digital innovation and data and AI innovation promotion for executives and leaders of major financial companies at AWS.
+
+This event, which will solve the curiosity of the public about data-centric AI for digital innovation in the financial sector, which is familiar with the use of digital assets and has a large amount of data, is open to anyone who wants to hear about data-centric AI, including representatives and executives of companies that strive for business innovation and success.
+
+This event will be held online live from 8 p.m. on the 22nd. Pre-participation applications will be available through the Upstage website (www.upstage.ai) and the event page (https://www.upstage.ai/events/data-centric-ai-th) for two weeks from the 8th to the 21st.
+
+Upstage CEO Kim Sung-hoon said, "The September Upstage Talks will be a special time for those who want to hear insights on solving business problems through data-centric AI, as it will share the experience of Gu Tae-hoon, who has experienced digital transformation in various industries for a long time." He added, "We will continue to make efforts to solve the curiosity of business customers and increase the understanding of AI among the public through various events related to AI."
+
+Meanwhile, Upstage will release 'Upstage AI Pack', a no-code-low-code solution that can easily apply the latest AI technology to various industries, based on its AI technology leadership proven by papers published at international AI conferences such as ECCV 2022, NeurlPS, ICLR, CVPR, and WWW, and winning double-digit gold medals in Kaggle, in the second half of this year.
+
+Through 'AI Pack', Upstage will help customers use three AI technologies, including OCR technology, recommendation technology considering customer information and product and service features, and natural language processing search technology that enables semantic-based search, in a customized manner at once. By using 'Upstage AI Pack', you can easily utilize data processing, AI modeling, and metric management, and you can conveniently use AI technology that is constantly updated and upgraded.
+

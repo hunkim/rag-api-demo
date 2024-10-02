@@ -1,0 +1,18 @@
+A'meeting place' where you can hear the experiences of software developers at the leading AI startup in Korea, Upstage, will be held.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced today that it will hold an online event for software engineers called 'Upstage Talks' (hereinafter referred to as Upstage Talks) on the 24th.
+
+'Upstage Talks' started as an internal technical lecture at Upstage, and has been widely known through sessions to share Upstage's achievements in the world's No. 1 Kaggle competition. This event consists of three sessions: lectures that share the experiences of Upstage's current engineers and panel talks that receive questions from attendees.
+
+The theme of this Upstage Talks is 'What do front-end and back-end developers do at an AI company?' and it is planned to proceed in the order of ▲What software engineers do at Upstage ▲The joy and difficulty of working as a software engineer ▲Career and work-related Q&A of software engineers.
+
+This event, which presents insights into careers and work as developers, is attracting attention with the participation of current speakers from various fields. Min Chang-hyun, an engineer who worked as a software engineer at Amazon, a global big tech company, Lee Joon-yeop, a former OCR technology leader at Naver, and Baek Soo-young, an engineer with Samsung Electronics experience, will participate in the event and share their experiences through lectures and Q&A sessions.
+
+This event, which is aimed at software majors with a high interest in the AI field or current workers who dream of a career change to a new industry, will be held online from 8 p.m. on the 24th. Pre-participation applications will be accepted through Upstage's SNS pages (Facebook, Instagram) for a week from the 16th to the 23rd, and after the event ends on the 24th, the presentation video and materials will be shared through the website and YouTube channel.
+
+Upstage CEO Kim Sung-hoon said, "This Upstage Talks is the best opportunity to hear the stories of current software engineers working at Upstage, the leading AI company in Korea," and added, "We will strengthen exchanges with developers in various fields through new opportunities in the future."
+
+Meanwhile, Upstage is planning to launch 'AI Pack', which can easily apply the latest AI technology to various industries, based on its AI technology leadership proven by papers published at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and securing top developers in Kaggle.
+
+Through 'AI Pack', Upstage will support continuous updates as well as data processing and AI modeling, enabling customers to use the latest AI technology in their current business. 'AI Pack' is a one-stop solution that helps customers use AI technology in a customized manner, including OCR technology that can extract and use the desired information from images, high-performance natural language processing search technology that can search for information that is similar in meaning, and recommendation technology that considers customer information and product and service features.
+

@@ -1,0 +1,14 @@
+Upstage, a domestic artificial intelligence (AI) startup, announced on the 23rd that it has signed an agreement with SendBird to apply its large language model (LLM) 'Sola'.
+
+Upstage will provide its own LLM 'Sola' as an API to SendBird's 'AI Chatbot'. Sola is a pre-trained model composed of a small size, and is the world's first 107 billion parameter (10.7B) model. Sola attracted attention from the AI industry by ranking first in the performance evaluation score of 74.2 points in the global AI platform Hugging Face LLM ranking as soon as it was released last month.
+
+SendBird is a B2B SaaS company that provides chat, voice, and video APIs and SDKs, and operates a global solution used by 300 million users per month through more than 10,000 services worldwide.
+
+SendBird plans to utilize the Upstage Sola model and introduce it to its recent no-code generative AI chatbot solution 'Smart Assistant'. Smart Assistant is a solution that helps companies easily create and deploy chatbots on mobile apps as desired, and provides useful and natural answers to customer inquiries.
+
+Upstage plans to enhance the model so that SendBird's customers can receive answers tailored to the needs of various customers around the world based on the fast speed and excellent performance of Sola. Sola is expanding its model usage cases infinitely, from specialized models for fields such as commerce and mathematics to the application of solutions for customer management across all industries.
+
+Upstage and SendBird plan to introduce SendBird's AI chatbot to Upstage's website through additional cooperation, as well as further enhancing the AI chatbot service through the application of the Sola API. Upstage said it expects to provide differentiated customer experience through the introduction of SendBird Smart Assistant.
+
+Upstage CEO Kim Sung-hoon said, "We are very pleased to introduce Sola to SendBird's global best chat solution." He added, "We will do our best to innovate the entire customer journey experience provided by SendBird through the small but strong Sola."
+

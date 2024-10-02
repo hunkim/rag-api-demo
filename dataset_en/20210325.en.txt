@@ -1,0 +1,18 @@
+Upstage, a startup that helps companies transform their AI (Artificial Intelligence), has signed a strategic partnership with KB Kookmin Bank and will embark on the construction of AI services in the financial sector.
+
+On the 25th, Upstage CEO Kim Sung-hoon and KB Kookmin Bank Tech Group Head Yoon Jin-soo promised overall technical cooperation through the signing ceremony held online at each company's headquarters. The event was held to strengthen the AI technology competitiveness of companies as the transition to non-face-to-face services in the financial industry accelerates.
+
+Upstage will showcase advanced AI technologies such as AI virtual consultation services to transform KB Kookmin Bank's AI. The main contents of the agreement include ▲diagnosis of KB Kookmin Bank's AI status ▲internalization of financial AI technologies ▲development of AI technology engines specialized in KB Kookmin Bank ▲design of a mid- to long-term AI technology blueprint for KB Kookmin Bank.
+
+Currently, Upstage is building non-face-to-face AI services that can be applied directly to financial businesses based on the expertise of its AI development talents. In fact, Upstage has a number of development and business leaders who have experience in operating actual AI services at global IT companies such as Naver, Kakao, NVIDIA, and eBay.
+
+Kim Sung-hoon, who founded Upstage, is a former leader of Naver Clova AI and is also a professor at the Hong Kong University of Science and Technology. Lee Hwal-seok, CTO, who was formerly in charge of Naver Clova Visual AI, is also active at Upstage. In particular, Upstage has a number of computer vision, NLP (Natural Language Processing), and recommendation system experts, and is recognized for its high technology in related fields.
+
+Based on this expertise, Upstage is in discussions with companies in various fields to transform AI.
+
+A KB Kookmin Bank official said, "In a situation where competition is intensifying due to the entry of large platform operators into the financial industry, we have signed this strategic partnership to bring about innovation in the technology of the financial sector through the internalization of KB Kookmin Bank's AI technology." "We will build our own AI roadmap with Upstage in the future to enhance AI technology specialized in KB Kookmin Bank."
+
+Upstage CEO Kim Sung-hoon said, "I am glad that Upstage, which helps companies transform AI, has signed an AI technology agreement with KB Kookmin Bank, a leading bank." "In the future, Upstage will establish itself as a company that leads the development of AI technology in the financial sector based on its high technology in the AI field."
+
+Meanwhile, Upstage established a Hong Kong branch in December last year to absorb AI talent not only in Korea but also abroad. It plans to provide AI solutions to a wider range of companies through the recruitment of AI talent.
+

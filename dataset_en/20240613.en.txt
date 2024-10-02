@@ -1,0 +1,14 @@
+Upstage's Giant Language Model (LLM) Soli will accelerate the innovation of generative AI in the financial sector.
+
+Artificial Intelligence (AI) technology company Upstage (CEO Kim Sung-hoon) announced on the 13th that it has signed a contract with Shinhan Investment to build a specialized generative AI platform for the financial investment industry.
+
+Recently, the clock for the introduction of generative AI has been accelerating, especially in the financial sector. In particular, 'private LLM', which blocks information leakage by learning only internal corporate data and minimizes 'hallucination', which generates distorted information, is emerging as a key base, especially in the financial investment industry, where security and accuracy are life.
+
+In response, Upstage and Shinhan Investment will work together to build a private LLM tailored to the characteristics of the financial investment industry based on their expertise. Upstage will develop a specialized model that can be extended to various tasks, as well as automate repetitive internal tasks, by learning financial specialized data based on its own Soli LLM.
+
+Specifically, it plans to build an internal knowledge database system that can process documents and search information, as well as to enhance various functions of Soli LLM such as generating various reports, summarizing information, and translating them into financial investment industry-specific. It is expected to maximize work productivity by automating repetitive tasks through the use of generative AI.
+
+In addition, Upstage plans to enhance model performance by injecting various technologies such as 'RAG (Retrieval-Augmented Generation)', which increases the accuracy of LLM answers through search, based on its own 'embedding' technology that converts natural language data into machine-understandable data, in collaboration with AI specialist company Skeleton Labs.
+
+Upstage CEO Kim Sung-hoon said, "It is meaningful to take the first step in developing a specialized private LLM for the financial investment industry in collaboration with Shinhan Investment, a leading financial company in Korea." He added, "In the future, Upstage will develop specialized models that can be used in a corporate-specific manner in industries that require high security and reliability, such as finance and insurance, and support generative AI innovation in all directions."
+

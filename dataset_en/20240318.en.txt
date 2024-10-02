@@ -1,0 +1,16 @@
+Upstage has established a US subsidiary and officially declared its entry into the global AI stage.
+
+Upstage (CEO Kim Sung-hoon) announced on the 18th that it has established a US subsidiary 'Upstage AI' as a stepping stone for expanding its global business. Park Eun-jung, CSO (Chief Scientific Officer) and co-founder of Upstage, has been appointed as the CEO of the US subsidiary.
+
+Upstage has accumulated know-how in developing and businessizing generative AI by collaborating with leading domestic companies in various industries and laying the foundation for overseas expansion. In particular, it has confirmed its global technological competitiveness by achieving the world's No. 1 in the 'Open LLM Leaderboard' of Huggingface, a machine learning platform, with its self-developed pre-trained large language model (LLM) 'Solar'.
+
+Solar is equipped with a faster and more powerful performance with a lightweight size compared to global big tech's models, and can be used as a cloud-based API or to build a specialized model for each company, providing the optimal LLM choice for all companies around the world. In combination with its own 'Document AI' solution that supports the digitalization of corporate documents with OCR (Optical Character Recognition) technology, it is judged that it has enough chances to win in the global market.
+
+Accordingly, Upstage plans to discover opportunities for cooperation with local and global enterprise companies by leading with the world's top-class Solar LLM and Document AI products. To this end, it will expand its business touchpoints by setting up a base in Silicon Valley, California, where major IT companies, including big tech, are concentrated. In the long term, it plans to expand its overseas bases to Europe, Japan, and Southeast Asia, using North America as a base.
+
+In addition, Upstage's North American subsidiary will participate in the world's largest AI conference 'GTC (GPU Technology Conference) 2024' hosted by NVIDIA on the 18th as its first move. This is the first time that Upstage has introduced its own technology and products at an overseas event by setting up a separate booth. In particular, it is expected that more than 300,000 people from all over the world will participate in this year's GTC, the largest ever.
+
+During the GTC period, Upstage will demonstrate the performance and use cases of Solar to on- and offline visitors, and showcase various support events to help developers and companies quickly and efficiently adopt Solar. In addition, key engineers of Solar, including Lee Hwal-seok, Chief Technology Officer (CTO), and Lee Jun-yeop, LLM Leader, will participate in special sessions to present LLM modeling know-how and search augmented generation (RAG) technology.
+
+Upstage CEO Kim Sung-hoon said, "Upstage has completed its preparations for the global generative AI market by establishing a US subsidiary," and added, "We will provide LLMs optimized for US and global companies using the world's top-class Solar, and actively seek various opportunities for cooperation to successfully advance into the global market."
+

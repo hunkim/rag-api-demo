@@ -1,0 +1,28 @@
+Upstage, a leading AI startup in Korea, will launch AskUp on Japan's national messenger 'LINE' and start full-scale overseas market expansion.
+
+Upstage announced on the 5th that it will officially launch AskUp, a leading Chat AI in Korea, on LINE, which is gaining great popularity on KakaoTalk Channel, and expand its user base beyond Korea to overseas.
+
+AskUp is an artificial intelligence chatbot service that provides various information and knowledge through natural language conversations by combining OpenAI's next-generation language model GPT-4 and Upstage's optical character recognition (OCR) technology. Recently, it has become a household name in Korea's generative AI, surpassing 900,000 users in just two months since its launch, with the addition of real-time search and image generation functions, which are considered limitations of ChatGPT.
+
+In Japan, 'AI Chatgun', which is linked to LINE using GPT API, is also gaining popularity, with 1.4 million users. AskUp has implemented a variety of user-friendly features such as OCR technology to process images, real-time search, and image generation functions, as well as the recently added food recognition function, which are not available in other competing services.
+
+LINE users can use all the functions of AskUp, which are currently applied to KakaoTalk, without any separate authentication. While AI Chatgun, a representative AI chatbot, is free to use up to 5 times a day and charges after that, AskUp provides 100 GPT-3.5 messages and 10 GPT-4 messages for free, just like the domestic service, maximizing user convenience.
+
+Above all, AskUp is attracting attention from global users with excellent Japanese and English recognition rates, containing the essence of the world's best OCR from Upstage, which recently swept the global AI competition 'ICDAR Robust Reading Competition' with 4 wins. After launching on KakaoTalk, AskUp has become famous in Korea as a 'ChatGPT with eyes' that can process various documents such as learning materials, business registration certificates, and contracts.
+
+In particular, with the launch of the LINE service, it is expected that users of LINE will be more useful in regions where digitalization of documents is needed, such as Japan and Southeast Asia, where LINE users are concentrated, as they can send text documents or handwritten images to AskUp and receive translated contents and answers directly in the messenger.
+
+In addition, AskUp can detect user intent and emotions through Upstage's prompt tuning know-how and sophisticated fine-tuning technology, and have conversations optimized for Japanese. In addition, it is highly versatile as it can utilize 27 languages, including Korean and Japanese, and knowledge in various fields by incorporating GPT-4.
+
+In addition, AskUp finds and answers real-time information quickly, unlike ChatGPT, which has learned only information up to 2021 by incorporating search functions. It is characterized by providing links to the source of the information it answers, which complements the 'hallucination' of providing inaccurate information by creating words, which is a limitation of ChatGPT, and allows users to easily check the integrity of the information.
+
+Recently, it has added a new image generation function, adding a hand that draws pictures to its eyes that read letters. Upsketch, an image generation model developed by Upstage, is renowned for creating the highest quality images in a mobile environment by generating high-quality drawings with only a short prompt through fine-tuning.
+
+Furthermore, Upstage has applied 'Food Lens' to AskUp in collaboration with Doing Lab, an artificial intelligence healthcare startup, and added food analysis functions. Food Lens analyzes and records various nutritional information such as calories and ingredient contents when you send a food photo to AskUp, and provides advice on diet, which is gaining popularity as a special function that combines generative AI.
+
+Upstage plans to combine AskUp with LINE, Japan's largest messenger platform with 94 million monthly active users (MAU), and speed up its global expansion through this as a stepping stone. Accordingly, it is preparing for gradual service expansion in countries with high LINE market share, including Thailand, Taiwan, and Indonesia, starting with its entry into Japan.
+
+Upstage CEO Kim Sung-hoon said, "AskUp, which has become the nation's leading Chat AI with 1 million channel friends in sight, is now aiming to become a global platform through full-scale overseas expansion," and added, "Upstage will make efforts to provide more people with convenient and innovative AI based on world-class technology."
+
+Meanwhile, Upstage is operating AskUp Biz, a business version of AskUp, as a service for global companies, along with API series and AI packs. AskUp Biz is a service that can increase the efficiency and satisfaction of companies by optimizing it for the business environment, and consists of three parts: AskUp Doc, which can read various documents and obtain information with Chat AI, AskUp Web, which can provide information on the homepage to homepage visitors, and AskUp Slack, which can be used in Slack, a business tool. It has received hot attention, with hundreds of companies applying for it after its release.
+

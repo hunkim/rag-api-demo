@@ -1,0 +1,18 @@
+Upstage has joined hands with NH Nonghyup Life Insurance to innovate financial AI.
+
+Upstage (CEO Kim Sung-hoon) announced on the 30th that it has signed a business agreement with NH Nonghyup Life Insurance to improve insurance business efficiency and co-grow through AI technology. The two companies held a ceremony at the NH Nonghyup Life Insurance headquarters in Seodaemun-gu, Seoul, with key executives from both companies, including Upstage CEO Kim Sung-hoon and NH Nonghyup Life Insurance CEO Yoon Hae-jin.
+
+Recently, the market landscape is rapidly changing with the introduction of AI such as optical character recognition (OCR) for document automation and domain-specific LLM in the financial sector. In particular, the demand for 'private LLM', which guarantees high security and prevents 'hallucination' that generates incorrect information, is increasing rapidly due to the nature of the financial sector, which is the life of personal information protection.
+
+In this flow, Upstage has joined hands with NH Nonghyup Life Insurance to promote innovation using AI in various areas, including ▲collaboration on data work efficiency improvement and AI technology internalization ▲improvement of insurance value chain work based on AI technology ▲development of AI technology models specialized in the insurance industry ▲discovery of new business models linked to AI.
+
+The two companies will promote automation of work through the introduction of AI OCR technology and cooperate to develop technology in various areas, including the use of generative AI technology.
+
+Upstage's AI OCR solution 'Document AI' recently recorded an accuracy rate of over 95% in the document recognition rate verification of 7 types of insurance claims with Samsung Life Insurance, and it was evaluated that it realized document automation even in the insurance domain, which is considered to be extremely difficult. Already, financial institutions such as Samsung Life Insurance and Hanwha Life Insurance, as well as various industries such as POSCO Holdings, Samsung SDS, and HD Hyundai Global Service, are introducing Document AI.
+
+In the future, Upstage plans to speed up the expansion of private LLM that can be applied not only to the financial sector but also to various industries. Upstage developed a private LLM based on its language model 'SOLAR', which surpassed ChatGPT and ranked first in the world in the Hugging Face 'Open LLM Leaderboard' in August, and signed an agreement with ConnectWave, Lotte Shopping, and Metaverse Entertainment, and started a full-fledged step.
+
+Upstage CEO Kim Sung-hoon said, "I am glad to be able to work together with NH Nonghyup Life Insurance, which leads the domestic insurance industry, to digitally transform and innovate using AI in the financial domain." He added, "In the future, Upstage will take the lead in industrial AI innovation by expanding OCR and private LLM that can be applied to various industries based on the world's best technology."
+
+NH Nonghyup Life Insurance CEO Yoon Hae-jin said, "Through the business agreement with Upstage, which has high AI technology, we hope that the efficient improvement of the entire NH Nonghyup Life Insurance insurance value chain and the internalization of AI technology will be achieved." He added, "Through this agreement, we will accelerate the digital transformation of Nonghyup Life Insurance and achieve innovation, and furthermore, it will be a good opportunity to lay the foundation for future growth for the co-growth of both companies."
+

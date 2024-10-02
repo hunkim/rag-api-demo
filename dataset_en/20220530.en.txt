@@ -1,0 +1,21 @@
+Upstage, a representative AI company in Korea, joins hands with 'FuriosaAI', an AI semiconductor specialized startup, to expand the ecosystem for AI transformation of companies.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced today that it has signed a joint development and sales agreement for AI ecosystem expansion with FuriosaAI (hereinafter Furiosa) at the FuriosaAI headquarters in Gangnam, Seoul on the 27th, with Kim Sung-hoon, CEO of Upstage, and Baek Joon-ho, CEO of FuriosaAI, in attendance.
+
+This agreement is drawing attention as a meeting of domestic AI representative software and hardware startups. Based on this agreement, the two companies will optimize Upstage's AI Pack with Furiosa's AI semiconductor, Warboy, and promote joint development of solutions that combine hardware and software.
+
+Furiosa is an AI semiconductor fabless (design) specialized startup that has recently released a high-performance AI semiconductor for computer vision, 'Warboy', and has been recognized for its world-class technology.
+
+Upstage is a domestic representative AI company that is widely known for its numerous excellent papers at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and for winning double-digit gold medals at Kaggle, the first in Korea. Based on its AI technology leadership proven by various customer collaborations and achievements, it is developing AI Pack, which can easily apply the latest AI technology to various industries.
+
+This cooperation is the first partnership that Upstage has with the domestic AI semiconductor industry, and it plans to expand the scope of cooperation with FuriosaAI in stages in the future to explore various ways to utilize AI Pack and specialized AI chips. Through this, it plans to help companies that are promoting AI transformation to easily introduce them, thereby expanding the AI ecosystem and increasing competitiveness.
+
+Through this cooperation, Upstage will optimize AI Pack not only for Furiosa's first-generation chip Warboy, but also for the next-generation chip currently under development, and jointly develop integrated solutions related to OCR technology. In addition, the two companies will go one step further and actively work together to jointly sell the solutions they have developed so that companies can use them well.
+
+
+Kim Sung-hoon, CEO of Upstage, said, "Through the cooperation between Upstage, a domestic representative AI company, and Furiosa, companies that want to introduce AI can easily and affordably meet AI software that learns on its own and hardware with excellent performance." He added, "Based on this cooperation, we will create an opportunity to expand the domestic AI ecosystem as well as the development of both companies."
+
+Baek Joon-ho, CEO of FuriosaAI, said, "We greatly expect that the total solution combining AI applications and computing that the two companies are developing will accelerate the introduction of AI by enterprises, and that we will pioneer innovative business models in the domestic and global markets together."
+
+Upstage AI Pack, which will be optimized for specialized AI chips through this cooperation, is drawing attention as a one-stop solution and a representative no-code, low-code service that helps customers customize three AI technologies: OCR technology that can extract and use desired information from images, high-performance natural language processing search technology that can search for information similar in meaning, and recommendation technology that considers customer information and product and service features. By using AI Pack, you can conveniently use the latest AI technology that supports data processing, AI modeling, and continuous updates.
+

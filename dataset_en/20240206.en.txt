@@ -1,0 +1,20 @@
+The best on-device AI construction, Upstage and LG Electronics join hands.
+
+Upstage (CEO Kim Sung-hoon), the nation's top artificial intelligence (AI) startup, announced on the 6th that it has signed a memorandum of understanding (MOU) for partnership in the AI business field with LG Electronics (CEO Cho Joo-wan).
+
+The two companies plan to apply it to LG Notebook Gram through the development of a lightweight language model based on on-device AI. On-device AI is a technology that can perform AI functions on the device itself without an Internet connection.
+
+On-device AI has the advantage of faster work speed and lower power consumption than cloud-based AI because it processes information inside electronic terminals such as smartphones, laptops, and tablets. In addition, it can solve security problems as personal information is not leaked to the outside, and it can be operated even if the Internet connection is unstable or cut off, so it can be used anytime, anywhere.
+
+Upstage will use the know-how of building Solara, the world's best SLM, to develop on-device AI for PCs and home appliances through this agreement. Solara is the world's first 10.7 billion parameter (10.7B) pre-trained model. Solara ranked first in the global AI platform Huggingface LLM ranking with a performance evaluation score of 74.2 points as soon as it was released last month, and all models in the top 20 have been dominated by models based on Solara for two weeks, attracting attention from the AI industry.
+
+In particular, Solara is attracting attention as the optimal model for on-device AI because it can provide various language-related AI functions without affecting the performance and power consumption of the device, with a small size of less than one-tenth of GPT-3 and a much faster inference speed.
+
+The two companies plan to develop AI functions and additional services applicable to PC products through collaboration. By utilizing on-device AI, they plan to develop services such as recognizing user voice commands, translating, summarizing, or searching and recommending documents or web pages to improve user experience.
+
+Upstage and LG Electronics plan to expand their cooperation to apply on-device AI technology not only to PC products but also to home appliances, considering the scalability of on-device AI technology. For example, it is possible to provide new experiences such as recognizing user voice commands and searching and recommending document contents stored in the laptop, or saving and summarizing video conference contents in text (text) like my own AI assistant.
+
+Upstage's Vice President Choi Hong-jun said, "Through the development and application of on-device AI technology with LG Electronics, we expect to provide faster, more convenient, and safer AI services." He added, "Starting with the application of the best AI to the Gram laptop, which has sold 2 million units, we will do our best to ensure that LG customers around the world can meet AI functions in the best LG Electronics home appliances and increase convenience and satisfaction."
+
+LG Electronics' IT CX Manager Gong Hyuk-jun said, "LG Gram has led the ultra-light and premium laptop market with continuous innovation over the past 10 years." He added, "We will actively target the next-generation AI laptop market based on our superior technological competitiveness in the AI field."
+

@@ -1,0 +1,14 @@
+Upstage's global top LLM 'SOLAR' is now easily accessible through KakaoTalk 'AskUp'.
+
+Upstage (CEO Kim Sung-hoon) announced on the 11th that it has applied its own pre-trained language model (Large Language Model, LLM) 'SOLAR' to KakaoTalk 'AskUp'.
+
+'AskUp' is a KakaoTalk chatbot messenger developed by Upstage that allows users to ask questions and receive answers on various topics. It is currently being used by 1.65 million users. 'AskUp' provides various AI functions such as chatbots, image generation, and optical character recognition (OCR). Users can easily use the service by adding the 'AskUp' channel in KakaoTalk.
+
+'SOLAR' is a global representative SLM (Small Language Model) with 10.7 billion parameters that Upstage unveiled on December 14th, and it has been attracting attention as the hottest topic in the industry since it ranked first in the global open LLM as soon as it was released on Hugging Face. In particular, earlier this month, it became the global major pre-trained model by occupying all of the top 30 positions with models developed based on 'SOLAR', and it was called the eye of the typhoon in open LLM.
+
+Upstage said that the application of its own model 'SOLAR' to 'AskUp' is expected to significantly improve the usability of LLM for users. 'AskUp' applied with 'SOLAR' provides natural answers to users' questions with a speed that surpasses GPT4 and a performance level similar to GPT4, and it is expected to read and summarize the contents of documents or images, or perform keyword-based searches, raising expectations.
+
+Upstage plans to gradually expand the proportion of 'SOLAR' in 'AskUp'. Currently, it has introduced 'SOLAR' in 10% of the conversations, and plans to expand it to a higher proportion in the future to increase its utilization.
+
+Kim Sung-hoon, CEO of Upstage, said, "Based on the internal test results of 'SOLAR', we applied it to 'AskUp' so that it can be more useful in everyday life as it surpasses GPT3.5 and is not much different from the usability of GPT4." He added, "Since the release of 'SOLAR' last month, we have been attracting hot attention from the open source AI industry and have become a global major pre-trained model. We hope that 'SOLAR' will contribute to making everyone's daily life efficient, not just developers."
+

@@ -1,0 +1,20 @@
+Upstage's paper on the development of Solra, a world-class large language model (LLM), has been adopted by a global top-tier natural language processing (NLP) conference.
+
+Upstage (CEO Kim Sung-hoon) announced on the 29th that it will present a paper on the development of Solra at NAACL 2024 (North American Chapter of the Association for Computational Linguistics), the world's top NLP conference.
+
+NAACL is considered one of the world's top three NLP conferences along with ACL (Association for Computational Linguistics) and EMNLP (Empirical Methods in Natural Language Processing). Every year, global big tech companies such as Google, Meta, and Amazon, as well as thousands of NLP researchers, participate and share the latest research results, and this year's conference will be held in Mexico City from June 16th to 21st.
+
+The Upstage paper adopted at this NAACL 2024 is a culmination of Upstage's technical capabilities, with all key executives, including CEO Kim Sung-hoon and Chief Technology Officer (CTO) Lee Hwal-seok, participating in the development of the paper led by researcher Kim Da-hyun and senior researcher Park Chan-joon.
+
+The paper presented a new methodology for increasing the size of LLMs by expanding the depth dimension of LLMs with a technique called 'Depth-Up Scaling (DUS)'. LLMs are composed of various layers of neural networks from text input to processing and output, and this method combines these layers to improve the performance of the model.
+
+Specifically, Upstage applied the DUS technique to 'Mistral 7B', an architecture of 'Llama 2', and expanded the depth dimension of the model to develop the 'Solra 10.7B' model, which consists of 10.7 billion parameters.
+
+Upstage Solra achieved the world's first place in the 'Open LLM Leaderboard' of Hugging Face, a machine learning platform, by surpassing large models from big tech companies such as Alibaba's 'Qwen' and MistralAI's 'Mixtral 8x7B' with a size less than one-sixth of 'Llama 2' in December last year, proving the superiority of the DUS technique.
+
+With this, Upstage has achieved the honor of having its technology, which developed its own LLM, recognized by a world-renowned conference. So far, Upstage has published more than 110 papers related to AI at home and abroad, and has achieved paper acceptance at all top 7 NLP conferences based on the Google Scholar ranking.
+
+The Google Scholar ranking is a prestigious indicator that measures the impact of conferences by evaluating the number of citations in papers based on Google Scholar, a specialized search service for academic information. The top 7 conferences in the NLP field include ACL, EMNLP, NAACL, TACL, COLING, LREC, and WMT, and all conferences except TACL, which is classified as a journal, have achieved paper results.
+
+Upstage CEO Kim Sung-hoon said, "I am pleased to have the world's best language model Solra developed by Upstage recognized at a global top-tier AI conference." He added, "In the future, Upstage will strive to develop a powerful LLM that can lead the domestic and overseas markets based on the world's best AI technology."
+

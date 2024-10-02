@@ -1,0 +1,14 @@
+Upstage (CEO Kim Sung-hoon, www.upstage.ai), a startup that accelerates AI (artificial intelligence) transformation of companies, has attracted a number of key AI experts in Korea. They have decided to join Upstage's vision to not only innovate AI in individual companies but also to advance AI technology globally.
+
+Upstage announced on the 23rd that Bae Jae-kyung, former head of Kakao AI Lab's Context Team, joined as a Machine Learning Leader (ML Leader). Bae Jae-kyung, a machine learning expert who created the language context research team, led Kakao's core technology tasks from 2012 to 2016 when he was the head of Kakao's search engine team.
+
+Bae Jae-kyung, who developed the initial model of Kakao's translation engine, is an AI expert who successfully established tasks such as optical character recognition (OCR), dialogue model, and speech recognition and synthesis model development, raising Kakao's AI level. He also published papers at major AI conferences such as the Neural Information Processing Systems Conference (NeurlPS) and the Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+Jo Yong-jin, former head of Kakao AI Lab's Machine Translation TF, also joined Upstage as a Research Engineer. Jo Yong-jin participated as a key member in the early stages of Kakao's machine translation and developed the honorific translation engine. Jo also created the real-time issue search ranking model for the portal site Daum.
+
+In addition, Upstage has recruited two developers from Kakao Enterprise, an AI affiliate that leads Kakao's B2B (business-to-business) business. Park Sun-kyu, a research engineer from Seoul National University, developed the OCR service model for Kakao Enterprise. Seo Dae-won, an engineer, is an AI developer with a major in foreign languages and built the natural language understanding (NLU) dialogue model for Kakao Enterprise.
+
+The newly recruited experts have decided to join Upstage, which meets the high demand for AI technology from domestic and foreign companies and raises the level of AI technology globally. Upstage identifies the parts of companies' problems that can be innovated through AI technology and provides basic AI models and system construction, as well as consulting, including AI teams. It has also established a Hong Kong branch to educate and recruit global talent.
+
+Upstage CEO Kim Sung-hoon said, "I am pleased to lead Upstage with talented AI experts at a time when the importance of IT development personnel is increasing day by day." He added, "We will make more efforts to accelerate the AI transformation of companies with talented people with AI business experience."
+

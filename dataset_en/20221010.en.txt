@@ -1,0 +1,23 @@
+Upstage, a leading AI startup in Korea, is holding an AI competition to develop a personalized recommendation model in collaboration with LG Uplus.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 10th that it will hold an AI competition 'LG Uplus AI Ground' with LG Uplus. The application for this 'LG Uplus AI Ground', hosted by LG Uplus and organized by Upstage, will be held from the 10th to the 31st.
+
+The recruitment targets are all students and graduate students from universities and graduate schools nationwide, and individuals and teams (up to 3 people) can participate.
+
+In this competition, participants will develop an optimal recommendation AI model using Upstage's AI competition platform 'AI Stages' based on LG Uplus's Idle Nation recommendation dataset for a month from November 7th to December 2nd. The main task of the competition is to develop the optimal algorithm that automatically recommends personalized content tailored to the user's preference by utilizing LG Uplus's content data as AI learning data.
+
+U+ Idle Nation is a platform that leads IPTV kids' content with a cumulative number of users of 61 million, and U+ expects to generate more data, improve processing efficiency and search capabilities through the development of the most advanced automatic recommendation model. Upstage will provide 'AI Stages' and be in charge of overall competition operation.
+
+Participation in the competition can be applied through the application page (https://github.com/UpstageAI/2022-lguplus-AI-Ground) on the developer community Github or the Google Form document until the 31st of this month.
+
+The first prize winner will receive a prize of 5 million won (1 team), the second prize winner will receive a prize of 2 million won (1 team), and the third prize winner will receive a prize of 1 million won each (3 teams). In addition, the top 10 teams will be given the benefits of exemption from document screening and coding test when applying for LG Uplus's new employee recruitment.
+*The organizer will bear the tax and other expenses, and the prize will be paid after the transfer of intellectual property rights such as code. **Limited to 1 time
+
+Upstage's'recommendation AI' technology, which organized this competition, has recently been proven by being applied to the fashion app 'Brandi' with an average of more than 1.5 times better results than competitors such as AWS. Based on this technology, Upstage's Seargest (search+suggest / search recommendation) AI technology is also attracting attention.
+
+Kim Sung-hoon, CEO of Upstage, said, "LG Uplus AI Ground, which aims to foster digital talent, will be a catalyst for participants interested in IT and AI to achieve their goals," and added, "Upstage will also contribute to improving the satisfaction of content platform services with AI search recommendation and Seargest AI technology through continuous collaboration with LG Uplus."
+
+Hwang Kyu-byeol, CDO of LG Uplus (executive director), said, "LG Uplus is working to expand its development workforce in line with its four-platform strategy to become a digital innovation company," and added, "We hope that AI talents will be interested in LG Uplus's AI services through this competition."
+
+Meanwhile, Upstage plans to release a no-code-low-code solution 'Upstage AI Pack' that allows customers to use AI technologies such as OCR technology that can extract and use desired information from images, recommendation technology that considers customer information and product and service features, and natural language processing search technology that enables semantic-based search at once and customized at the end of this year. By using 'Upstage AI Pack', it is not only easy to utilize data processing, AI modeling, and indicator management, but also to support continuous updates, so that the latest AI technology can be used conveniently at all times.
+

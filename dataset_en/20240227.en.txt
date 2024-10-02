@@ -1,0 +1,22 @@
+Upstage is joining hands with KT, KT Cloud, and K-Bank to innovate the financial sector's generative AI.
+
+Upstage (CEO Kim Sung-hoon) announced on the 27th that it has signed a 'Memorandum of Understanding (MOU) for the application and spread of generative AI technology' with KT, KT Cloud, and K-Bank.
+
+The signing ceremony was held at the K-Bank headquarters in Euljiro, Jung-gu, Seoul on the 27th, with the participation of key officials from the four companies, including Upstage CEO Kim Sung-hoon.
+
+Generative AI services, led by ChatGPT, are gaining attention as a catalyst for innovation, but the leakage of corporate information and the 'hallucination phenomenon' that generates distorted information are major problems. In particular, in the financial sector, where security is essential, such as customer personal information and compliance, access to and use of generative AI are limited.
+
+In response, the four companies have signed an MOU and decided to join hands to build a financial-customized generative AI environment and to come up with a business model using a 'private LLM (Large Language Model)' that focuses on preventing hallucination phenomena and strengthening security through internal data learning.
+
+Upstage will oversee the entire technology, including model development. Based on the world's leading LLM (language model) 'Solar', it will create a foundation model specialized in the financial domain, and will learn data and enhance performance through fine-tuning. Through this, it plans to implement a model specialized in various financial services of K-Bank.
+
+KT and KT Cloud will be in charge of building a generative AI platform and infrastructure. They will secure the necessary technologies and provide a platform and learning environment so that the introduction and learning of generative AI can be carried out smoothly at K-Bank. It is expected that the synergy effect will be maximized through IT technology cooperation between KT group companies.
+
+K-Bank plans to list various cases that can be applied as a basis for the introduction of generative AI. It will analyze the effectiveness and comprehensively judge the appropriateness of introduction after the introduction of generative AI technology. Based on this, it will push for planning and development of new products and services, and will oversee the entire process.
+
+Upstage will embark on the full-fledged development of purpose-specific LLMs through this agreement. Its own language model Solar is implementing customized generative AI services in various industries such as finance, distribution, education, and medical care with powerful performance tailored to the purpose. Recently, it also released a beta version that provides APIs free of charge until March.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to launch the signal of generative AI innovation in the financial sector with KT and K-Bank, the representative companies of Korea." He added, "In the future, Upstage will support the strengthening of AI competitiveness in various industries, including finance, based on world-class technology."
+
+K-Bank Tech Director Cha Dae-san said, "We have taken the first step in financial innovation by joining hands with the best AI companies in Korea to realize a tech-leading bank." He added, "We will do our best to make K-Bank a 'creative innovative bank' by gathering everyone's capabilities and expertise."
+

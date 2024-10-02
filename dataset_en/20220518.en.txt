@@ -1,0 +1,18 @@
+Upstage, a leading AI company in Korea, will hold an event to introduce the secrets of innovation and success in Silicon Valley and share the image of talent and working style in Silicon Valley.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 18th that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) on the 26th to share the vivid experiences and challenges of Silicon Valley startups.
+
+'Upstage Talks' is a well-known event that started as an in-house technical lecture at Upstage for 20 years, and has been widely known through the sharing of Upstage's world-class performance in the Kaggle competition and lectures by software developers working in AI companies. This year, the event is being held on a monthly regular basis and is receiving a hot response from companies and the public with an interest in AI.
+
+This Upstage Talks will be held under the title of 'Sharing the Way of Working in Silicon Valley AI Startups in the United States', and will feature Cha Min-chul, an engineer working at H2O.ai, a global AI startup, as a speaker on the topics of ▲Innovation and Success, Why Silicon Valley Startups Work Well ▲The Image of Talent that Silicon Valley Wants ▲How do AI startups in Silicon Valley work? ▲Comparison between Silicon Valley and Korean conglomerates.
+
+This event, which will solve the public's curiosity about Silicon Valley, which is called the hub of global innovation and the holy land of startups where future technologies and various business models coexist, and its representative AI startups, can be participated by anyone who wants to learn their way of working and grow one step further.
+
+This event will be held twice, online live from 12 p.m. on the 26th and streaming of the recorded video at 8 p.m., for the convenience of participants. Pre-participation applications will be accepted through the Upstage website (www.upstage.ai) for 9 days from the 18th to the 26th, and the presentation video and materials will be shared through the website and YouTube channel after the event.
+
+Upstage CEO Kim Sung-hoon said, "May Upstage Talks will be a special time for everyone who wants to learn their way of working and grow one step further through the sharing of experience by Cha Min-chul, an engineer who has experienced Silicon Valley for a long time." He added, "We plan to provide insights into AI to the public by holding events through fun planning in the future."
+
+Meanwhile, Upstage is developing 'AI Pack', which can easily apply the latest AI technology to various industries based on AI technology leadership proven by papers published at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and securing top developers in Kaggle. It plans to launch it this year.
+
+Through 'AI Pack', Upstage will support data processing, AI modeling, as well as ongoing updates to help customers use the latest AI technology in the field. 'AI Pack' is a one-stop solution that helps customers customize three AI technologies: OCR technology that can extract and use desired information from images, high-performance natural language processing search technology that can search for information that is similar in meaning, and recommendation technology that considers customer information and product and service features. It is drawing attention as a representative no-code, low-code service.
+

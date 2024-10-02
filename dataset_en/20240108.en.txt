@@ -1,0 +1,18 @@
+Upstage (CEO Kim Sung-hoon) announced on the 8th that it has achieved a world record by surpassing OpenAI's ChatGPT and Microsoft (MS) models with its math domain-specific 'MathGPT (tentative name)' co-developed with Masspresso (CEO Lee Yong-jae), operator of the AI-based learning platform 'Quanda', and KT.
+
+In November last year, Upstage and Quanda embarked on the development of MathGPT as part of a strategic partnership with KT. Upstage fine-tuned the natural language-based language model to solve complex math problems through logical reasoning and programming by learning high-quality math-specific data from Quanda.
+
+Accordingly, the two companies developed a 13B parameter MathGPT and achieved a encouraging report that surpassed the strongest MS 'ToRA 13B' in the representative benchmark tests that evaluate the math ability of language models such as 'MATH' and 'GSM8K'. This is a world record that ranks first among models of 13B or less.
+
+It is a rare achievement in the world recently that the highest performance has been achieved at the same time in two scales, MATH benchmark consisting of 12,500 high-level math competitions and GSM8K benchmark that tests arithmetic operations with 8,500 elementary school math problems.
+
+In particular, MathGPT surpassed the performance of ChatGPT in the average of the benchmark test and surpassed GPT-4 in the MATH benchmark. In the high-level math domain, a small-sized model developed in Korea has set a meaningful flag by surpassing big tech companies such as OpenAI and MS.
+
+The organic cooperation of the three companies, Upstage, Quanda, and KT, was crucial to this achievement. With the full support of KT's infrastructure through a strategic partnership, the modeling technology of Upstage, which created the world's No. 1 LLM by surpassing global big tech companies with its own language model 'SOLAR', was combined with the unique math-specific know-how and high-quality learning data of Quanda to create the best results.
+
+Upstage, which has confirmed visible results in the education sector through MathGPT, will lead the reorganization of the LLM market with SOLAR in the future. It plans to strengthen its global competitiveness by focusing on strengthening its global competitiveness as a stepping stone for full-fledged overseas expansion beyond Korea, covering various industries such as finance, distribution, medical care, and entertainment.
+
+Upstage CEO Kim Sung-hoon said, "It is meaningful that we have developed a math-specific language model that surpasses ChatGPT through cooperation with Quanda and KT." He added, "In the future, Upstage will lead the generation AI innovation in various areas based on its global No. 1 LLM technology."
+
+Quanda CEO Lee Yong-jae said, "The technology and know-how of the three companies, Quanda, Upstage, and KT, have been combined to create a meaningful result that surpasses global big tech companies." He added, "We will innovate the education experience of students around the world through Quanda's AI tutor."
+

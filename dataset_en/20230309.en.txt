@@ -1,0 +1,22 @@
+Now, anyone can use 'Eye-opened ChatGPT' on KakaoTalk.
+
+Artificial intelligence (AI) startup Upstage has launched AskUp, which combines Upstage's optical character recognition (OCR) technology and ChatGPT on the national mobile messenger KakaoTalk, and has gathered 30,000 channel friends in just 3 days through word of mouth.
+
+AskUp is based on Upstage's developed generative artificial intelligence chatbot 'ChatGPT' and combined with Upstage's OCR technology, it is born as a 'ChatGPT with eyes' that can read, understand, and answer the contents of a document when a user takes a picture or sends it. AskUp can be used simply by searching for the AskUp channel on KakaoTalk or accessing https://askup.upstage.ai.
+
+The OCR technology developed by Upstage accurately recognizes characters regardless of various fonts, backgrounds, etc. Through this, users can send documents written in text or handwritten images to AskUp and receive answers along with translated contents. In addition, various documents such as learning materials, business registration certificates, and contracts can also be sent to AskUp to obtain necessary information or process them into text.
+
+Upstage expanded AskUp (AskUp), which was used as an intern at Upstage, to mobile messengers such as KakaoTalk and Line to expand the AI ​​ecosystem and make it available to the public. Upstage CEO Kim Sung-hoon added, "We think that utilizing AI by all the people will be the national competitiveness in the AI ​​era, and we have combined it with Upstage OCR Pack technology to make it available to everyone so that they can use it simply by adding a KakaoTalk channel."
+
+The advantages of Upstage AskUp do not end here. In particular, AskUp applied to KakaoTalk and Line goes one step further than ChatGPT, and combines special prompts and contexts when sending OCR-processed results and messages to ChatGPT through Upstage's prompt tuning know-how.
+
+In addition, depending on the user's question, it is possible to fine-tune and have a conversation that suits the personality like making friends. For example, if you ask, "How's the weather today?" it will provide weather information for the current location and recommend appropriate clothing or activities. In addition, if you say, "I'm in a good mood today," it will ask you the reason or congratulate you.
+
+In the future, Upstage plans to introduce Upstage's recommendation Pack and apply various technologies such as Seargest (recommendation + search) technology to develop long-term memory and recommend necessary contents from previous conversations. For example, if you ask a question such as "Where was the barbecue party last fall?" it will give you an answer by looking at the previous conversation.
+
+Upstage is holding a 'Hundred Questions and Answers' event for users who add the KakaoTalk AskUp channel from today to March 16 (Sun) to utilize up to 100 questions a day for free, following the high popularity of KakaoTalk AskUp. Currently, AskUp is limited to 100 questions per month. However, users who subscribe during the event period can communicate with AskUp and obtain information up to 100 times a day.
+
+Upstage CEO Kim Sung-hoon said, "AskUp is a service that shows the possibility of communication and collaboration between AI and humans, and we want many people to experience the convenience and fun of AI." He added, "We will lead the popularization of AI so that the whole nation can rise to a higher stage in the AI era by lowering the hurdle of AI utilization in daily life."
+
+Meanwhile, Upstage has launched 'Upstage AI Pack', a no-code-to-low-code solution that helps customers customize and utilize various AI technologies such as OCR technology used in AskUp, recommendation and search technology, and more. By using AI Pack, you can easily utilize data processing, AI modeling, and metric management, and you can use the latest AI technology conveniently by providing continuous updates.
+

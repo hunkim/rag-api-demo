@@ -1,0 +1,26 @@
+Upstage, a leading AI startup in Korea, is joining hands with Hong Kong University of Science and Technology, a world-renowned university, to foster artificial intelligence (AI) talents who will lead the Web 3.0 era.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 23rd that it has signed an agreement with Hong Kong University of Science and Technology (hereinafter referred to as Hong Kong University of Science and Technology) to foster talent and create an ecosystem in the AI field, including the opening of an AI software curriculum and the selection of scholarship students.
+
+The 'HKUST GZ MSC' program, which will be opened through this agreement, is a program that allows students to earn a master's degree by taking courses from world-renowned scholars at Hong Kong University of Science and Technology online or on-site at the Guangzhou campus for one year, and then working at Upstage, a leading AI startup in Korea, for one year.
+
+Although AI is gaining popularity as the crown jewel of the fourth industrial revolution, domestic ICT companies are having difficulty securing AI talent due to a shortage of AI experts. In response, Upstage has set a goal of fostering talents through education from world-renowned scholars and practical experience with top AI experts, and is pursuing AI cooperation with Hong Kong University of Science and Technology to secure AI national competitiveness in the long run.
+
+This is the first time that a domestic startup has developed an AI practical curriculum in collaboration with a foreign prestigious university. Upstage and Hong Kong University of Science and Technology expect that the program will greatly improve the practical skills of AI majors as well as the acquisition of degrees.
+
+Hong Kong University of Science and Technology, which signed an agreement with Upstage, is a top university that has been ranked first in the world for three consecutive years in the World Emerging University Evaluation announced by Times Higher Education. Research is also active. Hong Kong University of Science and Technology, which ranked 27th in the 2021 QS World University Rankings, has 142 scientists in the top 2% of the world evaluated by Stanford University.
+
+Students selected for the program can receive a scholarship of about 100 million won, including tuition fees of about 50 million won for two years, and salary during the internship period. Applicants can also have the opportunity to work at Upstage after the internship depending on their grades and internship evaluation.
+
+The program, which runs for a total of two years, is open to graduates of computer and mathematics-related majors, and after passing the Hong Kong University of Science and Technology by next month, they can apply for the Upstage scholarship program in April and the target will be confirmed through the screening process. The selected target will start the first semester from September.
+
+In addition, Upstage and Hong Kong University of Science and Technology plan to continue cooperation in various fields, including conducting joint research between industry and academia to secure future AI technologies.
+
+Kim Sung-hoon, CEO of Upstage, said, "In the Web 3.0 era, where the speed of technological development and market environment changes rapidly, securing talent based on openness, cooperation, and sharing is urgent." "Based on this cooperation with Hong Kong University of Science and Technology, we will do our best to create an ecosystem for everyone's AI and provide opportunities to foster talent."
+
+Way Hai, President of Hong Kong University of Science and Technology, said, "We are pleased to open the 'HKUST GZ MSC' program with Upstage, a leading AI startup in Korea." "Based on this agreement, we will contribute to the expansion of the AI ecosystem through various cooperations with Upstage in the future."
+
+In addition, Upstage is recruiting various positions, including professional researchers with AI expertise. For more information on recruitment, please visit the Upstage Career website (https://careers.upstage.ai/l/ko).
+
+Meanwhile, Upstage has been recognized for its high potential as a leading company in the AI industry, raising 31.6 billion won in Series A funding in just one year since its establishment last year. In addition, it has won 10 gold medals in the AI competition Kaggle, which is participated by 9 million machine learning developers around the world, and has published a total of 14 papers through international AI conferences such as ACL and EMNLP in the past year.
+

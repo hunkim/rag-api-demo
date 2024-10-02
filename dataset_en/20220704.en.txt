@@ -1,0 +1,22 @@
+AI (Artificial Intelligence) startup Upstage, a representative AI startup in Korea, will provide a recommendation AI that maximizes the potential and growth potential of children, expanding the AI ecosystem of startups.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 4th that it has signed a 'Kuggu Recommendation Service Introduction and Use Agreement' with Glorang. Through this agreement, Upstage will promote the provision of hyper-personalized class recommendation solutions for online kids school 'Kuggu' users.
+
+Over the past two years, the world has rapidly changed from face-to-face to non-face-to-face, and the communication channel between people has changed from offline to online. Untact technology has developed rapidly and is being used in many fields. In particular, as online-centered education continues, attention is being paid to the industry of 'edutech', which combines education and technology.
+
+In particular, in the edutech industry, which has accumulated a large amount of data during the pandemic period, AI is becoming an 'essential' technology beyond 'necessary' to provide learning tailored to students' level and aptitude.
+
+Upstage plans to provide Glorang with AI solutions it has developed based on its technology, which has been proven by publishing a number of excellent papers at international AI conferences including NeurlPS, AAAI, ACL, and EMNLP, and winning double-digit gold medals at Kaggle, the first in Korea.
+
+The recommendation AI solution to be provided by Upstage will be used as the underlying technology for the talent management service, which diagnoses the talents of children users and presents a hyper-personalized growth roadmap for their talent development, based on the rich data of 'Kuggu', the No. 1 online kids class platform operated by Glorang. In addition, Upstage plans to make continuous efforts to improve the performance of the model through performance monitoring using AI-based analysis tools.
+
+Glorang launched Kuggu, an online kids class platform for 5-13 year olds, in November 2020 and has grown by 40% every month based on class transactions. Currently, it is a representative edutech startup in Korea, which has secured more than 2,000 classes and about 1,000 teachers based on traffic.
+
+Upstage's 'Education AI' technology has already been proven. In February, Upstage presented a paper on customized learning core technology using deep learning technology at 'The Web Conference 2022', the world's top international conference in the field of information technology, proving its technology. The paper attracted attention as the first study to introduce contrast learning to the AI model that can track the understanding of students using their past learning records to enable personalized hyper-personalized education for each student.
+
+In addition, this cooperation has significance as part of Upstage's efforts to expand the AI ecosystem of startups based on its AI technology. In the future, Upstage plans to do its best to contribute to the acceleration of digital innovation by applying AI technology to the data of companies that need AI through cooperation with various startups.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to provide a recommendation AI solution that awakens the potential of children and helps them grow through cooperation with Glorang, a representative edutech startup in Korea." He added, "Based on Upstage's AI technology leadership, we will make more efforts to expand the AI ecosystem of startups that need AI, not just cooperation with large companies."
+
+Meanwhile, Upstage plans to launch a no-code-low-code solution called 'Upstage AI Pack' in the second half of this year, which allows customers to use three AI technologies, including OCR technology that allows users to extract and use the desired information from images, recommendation technology that considers customer information and product and service features, and natural language processing search technology that enables semantic-based search, all at once. Customized. By using 'Upstage AI Pack', you can easily use data processing, AI modeling, and indicator management, as well as support continuous updates, so you can conveniently use the latest AI technology at all times.
+

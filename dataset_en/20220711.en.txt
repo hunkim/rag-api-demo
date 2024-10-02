@@ -1,0 +1,23 @@
+Upside, a leading domestic AI startup, has published a paper at the world's top computer vision international conference, proving its best OCR technology.
+
+Upside (CEO Kim Sung-hoon, www.upstage.ai) announced on the 11th that it has published two papers at the European Conference on Computer Vision (ECCV) 2022. ECCV is considered one of the world's top AI conferences along with the International Conference on Learning Representations (ICLR) and the International Conference on Computer Vision and Pattern Recognition (CVPR).
+
+The ECCV conference, which is held every two years, is a top-tier conference with a paper acceptance rate of less than 30%. A total of 5,150 papers were submitted to the ECCV 2020 held in 2020, and only 1,360 papers, or 26%, were accepted. With this, Upside has published papers at all three major AI conferences this year, reaffirming its status as an AI top technology company.
+
+The two papers published by Upside are research on optical character recognition (OCR) character recognition models and papers on learning strategies that are the basis of machine learning.
+
+The first paper achieved higher performance than existing character recognition models that mainly used visual elements by applying a multi-modal technology that recognizes both linguistic and visual elements when AI recognizes characters in a photo. The second is a research paper on custom learning strategies that solve problems that occur when applying a pre-trained model to a specific field. This technology can easily apply it to various types of models and secure the performance of data in the field that was not examined at the time of model learning.
+
+In other words, the performance of the technology that allows AI to recognize data in a photo by interacting with visual and linguistic elements was improved, and the technology that can be used in various fields such as various types of documents was also presented. These paper achievements are expected to make a significant contribution to improving OCR performance.
+
+Upside plans to further accelerate the development of 'Upstage OCR Pack', which can extract and use the desired information from images by utilizing AI, based on the technical excellence recognized through the paper.
+
+The ECCV conference, where the paper will be published, will be held in Tel Aviv, Israel from October 23 to 27. Upside's two papers will be published in the research track.
+Upside has attracted attention by ranking in the top five in Korea, the only startup, in the '2021 Global AI Top-tier Conference Paper' survey conducted by the UK's 'Imperial College London' in May. In particular, this year, it is expected that it will achieve greater results as it has exceeded last year's major conference paper presentation performance of three papers by more than double in just half a year.
+
+Kim Sung-hoon, CEO of Upside, said, "I am pleased to be recognized internationally for Upside's AI technology through the adoption of two papers at the ECCV conference, which boasts the world's top authority." "We will do our best to use it as a major foundation for creating the best performance service, not just in academic research, so that customers can use the best AI in the field without code."
+
+Upside will launch a no-code-to-code solution 'Upstage AI Pack' in the second half of this year, based on the AI technology leadership proven by papers published at international AI conferences such as ECCV 2022, NeurlPS, ICLR, CVPR, and WWW, and the acquisition of more than 10 gold medals in Kaggle.
+
+Through 'AI Pack', Upside will help customers use three AI technologies, including OCR technology, recommendation technology that takes into account customer information and product and service features, and natural language processing search technology that enables semantic-based search, in one customized package. By using 'Upstage AI Pack', you can easily utilize data processing, AI modeling, and metric management, and you can use the latest AI technology conveniently by supporting continuous updates.
+

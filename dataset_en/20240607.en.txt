@@ -1,0 +1,16 @@
+Upside's giant language model (LLM) Solar is optimized for Intel processors.
+
+Upside (CEO Kim Sung-hoon), an artificial intelligence (AI) technology company, announced on the 7th that it will optimize 'Solar Mini', a lightweight version of Solar, and 'WriteUp', an LLM document work app based on Solar, for 'Intel Core Ultra processors'.
+
+On-device AI, which allows AI processing on the device itself without external cloud connection, is a hot topic. In particular, AI PCs that directly install LLMs on chips embedded in terminals not only have high accessibility and productivity but also maximize security by blocking information leakage.
+
+Accordingly, Upside and Intel will optimize Solar for Intel Core Ultra processors specialized in AI functions to present a new standard for AI PCs combined with the world's best LLMs. Through this, it is expected that Solar will be able to be used as on-device AI in Windows PC product groups equipped with Intel's corresponding processors in the future.
+
+Solar is Upside's in-house pre-trained LLM. Solar Mini is a model that has lightened the parameters (parameters), and it is specialized in various industries and customized fine-tuning (fine-tuning) for each company as well as on-device AI due to its small but powerful performance. It supports various languages such as Korean, English, and Japanese.
+
+WriteUp is a document work app based on Solar. It is an installable type that operates in a closed network and offline environment, allowing various document work using Solar LLM. It is characterized by the ability to generate sentences, summarize, and adjust the tone of sentences according to the context in real time, and it also supports real-time multilingual translation.
+
+In addition, Upside demonstrated Solar running on Intel chipsets at 'COMPUTEX 2024', Asia's largest IT exhibition held in Taipei, Taiwan from the 4th to the 7th of this month, and at 'Intel AI Summit Seoul' held in Seoul on the 5th.
+
+Upside CEO Kim Sung-hoon said, "We are very pleased to be able to install the world's best Solar LLM developed by Upside on Intel's high-performance processors." "Through Solar, which is specialized in on-device AI with high productivity and security, users of Windows PCs based on Intel will be able to use generative AI technology more easily and quickly."
+

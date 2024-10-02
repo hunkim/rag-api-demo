@@ -1,0 +1,20 @@
+Upstage, a leading AI company in Korea, will share successful introduction methods for AI personalized recommendation technology.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 25th that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) on February 16 to share successful introduction methods for AI recommendation technology under the theme of 'AI Personalized Recommendation for Everyone: Growth of Recommendation-related Marketing Technology and Introduction Methods in Companies'.
+
+'Upstage Talks' started as an in-house technical lecture at Upstage in 2020, and has been widely known through the sharing of Upstage's world-class achievements in the Kaggle competition and lectures by Silicon Valley developers. It has been held on a regular basis every month and has been receiving a hot response from companies and the public interested in AI.
+
+In this Upstage Talks, Convenience Hyun, the head of Upstage's strategy team, who is a former Bain & Company global consulting firm, will serve as a speaker and discuss the latest technology trends and introduction strategies. The presentation will be conducted in the order of ▲Marketing trend changes and the emergence of AI recommendation solutions ▲AI recommendation solution effects and difficulties ▲AI recommendation solution introduction methods ▲Recommendation solutions for everyone, focusing on real case analysis.
+
+As personalized experiences are valued, AI recommendation solutions that provide customized services based on customer data are gaining popularity. In fact, 35% of Amazon's total sales are generated from recommendation technology, and 80% of Netflix users consume content with recommendation algorithms, making personalized recommendations a key marketing technology that leads to increased purchase conversion rates and sales for companies.
+
+Accordingly, this event, which introduces various recommendation technologies and successful introduction methods that meet the needs and situations of companies, such as cases of 'AI as a Service (AIaaS)' recommendation solutions that anyone can easily introduce AI, is open to anyone who wants to hear about the latest marketing technology trends, including corporate officials who are considering AI recommendation technology but are having difficulty.
+
+The February Upstage Talks will be held online live from 8 p.m. on February 16. Pre-participation applications will be available through the Upstage website (www.upstage.ai) and event page from January 25 to the day of the event.
+
+Upstage CEO Kim Sung-hoon said, "The demand for AI in the recommendation and search sectors, which are called 'Seargest' technology, the core of platform sales growth, is increasing rapidly, but the actual introduction success rate is less than 2%." He said, "This year's first Upstage Talks will provide insights to corporate customers who hope to introduce AI but are having difficulty by presenting the latest recommendation technology trends and successful introduction methods."
+
+Meanwhile, Upstage is helping customers' digital transformation with 'Upstage AI Pack', a no-code/low-code solution that can easily apply the latest AI technology to various industries based on AI technology leadership proven by papers published at international AI conferences such as NeurlPS, ICLR, CVPR, ECCV, and WWW, and winning double-digit gold medals in Kaggle.
+
+Through 'AI Pack', Upstage helps customers use three AI technologies, including OCR technology, recommendation technology that takes into account customer information and product and service features, and natural language processing search technology that enables semantic-based search, in a customized manner at once. By using 'Upstage AI Pack', you can easily utilize data processing, AI modeling, and metric management, and continuously update and support the latest AI technology.
+

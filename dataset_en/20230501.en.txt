@@ -1,0 +1,20 @@
+Now you can talk with an artificial intelligence personal nutritionist through KakaoTalk.
+
+Upstage (www.upstage.ai), an artificial intelligence specialist company, announced on the 1st that it will add food analysis functions by working with Doing Lab (CEO Jin Song-baek), an artificial intelligence healthcare startup, to its recent KakaoTalk AskUp, a representative Chat AI in Korea.
+
+AskUp is a representative Chat AI in Korea that combines Upstage's OCR technology and '?' search, and image generation model UpSketch based on OpenAI's ChatGPT. It has recently become famous as an 'eye-attached ChatGPT' that can read documents and answer questions based on Upstage's OCR technology, which is the world's best level with four ICDAR wins, and has surpassed 900,000 channel friends in two months since its launch. It is also receiving great attention from enterprise customers through 'AskUp Biz'.
+
+Upstage will apply Doing Lab's food recognition solution 'FoodLens' to its 'AskUp', allowing users to take a photo of food and send it to AskUp, which will analyze and record nutritional information in conjunction with FoodLens. For example, if you send a photo of a sandwich you ate in the morning to AskUp, FoodLens will tell you the calories, carbohydrates, proteins, and fats of the sandwich and give you advice on your diet.
+
+After sending a photo of food to AskUp, you can record your diet by touching the 'Record' button at the bottom and recommend healthy recipes or suitable foods according to your eating habits and goals. Food photos are recorded up to the last five.
+
+In addition, you can have various conversations related to food as an artificial intelligence personal nutritionist through the 'Story' button that tells you stories related to the food and the 'Recipe' button that tells you how to make the food. If you send a photo of 'pizza' and press the 'Story' button, you can hear the origin, types, and most expensive pizzas in the world. If you send a photo of'steak' and press the 'Recipe' button, you can find out the grade and type of steak, the time and temperature to grill it, and more.
+
+'Record' and 'Story' and 'Recipe' are special functions that combine FoodLens' food recognition and AskUp's generative AI functions to help you know and enjoy food more deeply. In particular, FoodLens 2.0, which was applied to AskUp this time, is a technology that recognizes all foods through ingredient recognition and recipe prediction of foods, and recognizes the size of the food in 2D images. It is a technology developed by Doing Lab for overseas expansion.
+
+Upstage and Doing Lab said that they will maximize the synergy of AI technology through this collaboration and provide services to help users' healthy diet. Upstage CEO Kim Sung-hoon said, "We are pleased to be able to provide greater convenience to users' daily lives by applying the FoodLens function to AskUp in collaboration with Doing Lab." "AskUp is positioning itself as a chat AI service that can respond to various requests from users by utilizing image generation technology and natural language processing technology, and will continue to create new value through innovation in AI technology and collaboration with various industries."
+
+Doing Lab CEO Jin Song-baek said, "FoodLens is a food recognition solution that analyzes food photos and provides nutritional information by itself, and is already working with a number of domestic and foreign companies." "We expect that many users will be able to experience the technology of FoodLens through collaboration with Upstage, and we will continue to develop solutions that help many people manage their health through research and development."
+
+The FoodLens function of AskUp is available from the 1st. For more information, please visit the KakaoTalk AskUp page (https://askup.upstage.ai).
+

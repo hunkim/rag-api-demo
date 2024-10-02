@@ -1,0 +1,30 @@
+Upstage, a leading AI startup in Korea, has achieved the first paper on knowledge tracing using contrastive learning at a top international conference.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 8th that a paper on custom learning core technology using deep learning technology has been adopted at 'The Web Conference 2022' (hereinafter referred to as the Web Conference), the world's top international conference in the field of information technology.
+
+Upstage's research was conducted in collaboration with 'Ice Cream Edu', which operates 'Ice Cream Home-run', a smart learning for elementary and middle school students. 'Ice Cream Edu' is an edutech innovation company that was selected as the first 'DX Certification' company among edutech companies in December last year.
+
+The 'Web Conference' has been recognized as a conference where cutting-edge research in web-related fields has been shared for about 30 years since it was first held in 1994 under the name of the 'World Wide Web Conference (WWW)'. Along with NeurIPS, ICML, and ICLR, it is also a top international conference in computer science recognized by BK21 and the Korean Institute of Information Scientists and Engineers.
+
+Every year, research in various fields such as machine learning, mathematics, data mining, and optimization is presented at the Web Conference, and this year, a record number of 1,822 papers were submitted due to the rise of artificial intelligence, but only 323 papers were adopted. This is the first time that Upstage has recorded a paper adoption at the 'Web Conference'.
+
+Upstage and Ice Cream Edu jointly researched technology that can be more widely applied to artificial intelligence-based non-face-to-face education to enhance the 'knowledge tracing AI' model for one step higher personalized learning. The 'knowledge tracing AI', which is the basis of the technology, is an AI model that can track understanding by utilizing the student's past learning history and identify the current knowledge and weaknesses of the learner. This is one of the core technologies of educational AI that enables personalized personalization education for each student.
+
+In particular, the two companies' paper attracted attention as the first study to introduce contrastive learning, a method of deep learning, into knowledge tracing. By using the characteristics of contrastive learning, which finds the main features of the data itself by learning a large amount of data, it produced more effective results than the existing research method, which had a one-way direction.
+
+In other words, the paper using contrastive learning, which can find useful information from the unique patterns of the data itself, is expected to be an even more important technology in the future, as it has a vast amount of data due to various non-face-to-face education due to Corona in AI education.
+
+The deep learning technology that proved its excellence through the paper is being applied and proven in the math service of Ice Cream Edu's Ice Cream Home-run, and will be used for more sophisticated right-wrong prediction technology and vulnerability tracking. It is planned to expand the application of the technology to other subjects other than math by the end of the year.
+
+The Web Conference, where the paper will be presented, will be held as an online conference from April 25 to 29 under the host of the University of Lyon in France. Upstage and Ice Cream Edu's paper will be published in the research track.
+
+Upstage CEO Kim Sung-hoon said, "It is quite difficult for an edutech paper to be adopted at a conference that covers the entire field of information technology. The fact that the paper on 'DKT (Deep Knowledge Tracing)', the two companies' deep learning technology, was adopted at this year's Web Conference, where only 17% of the submitted papers were adopted, means that it has reached the world's top level."
+
+He also emphasized the importance of data quality, saying, "The joint research that utilized the learning context data and the highly refined artificial intelligence learning data held by Ice Cream Edu played a big role in raising the performance of the Knowledge Tracing technology, which had been stagnant for a while, to the world's top level through the advancement of deep learning."
+
+Ice Cream Edu CEO Cho Yong-sang said, "Knowledge Tracing is an AI model that tracks the current knowledge level of a student based on various learning data, and it can identify what part has a significant impact on the current knowledge of the learner and what is lacking." He expressed confidence in the excellent technology, saying, "Since the level of knowledge possessed by each student is different, providing learning based on this is the goal of customized learning (adaptive learning), so knowledge tracing is a key engine for personalization for each student."
+
+Upstage is planning to launch 'AI Pack', which can easily apply the latest AI technology to various industries, based on the proven AI technology leadership, such as papers presented at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and securing top developers on Kaggle.
+
+Through 'AI Pack', Upstage helps customers use AI technology that is constantly updated through data processing, AI modeling, and continuous updates in the field. 'AI Pack' is a one-stop solution that helps customers use AI technology such as OCR technology that can extract and use desired information from images, high-performance natural language processing search technology that can search for information similar in meaning, and recommendation technology that takes into account customer information and product and service features.
+

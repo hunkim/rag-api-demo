@@ -1,0 +1,16 @@
+The world's best small language model (SLM) that surpassed big tech is now available for free.
+
+Upstage (CEO Kim Sung-hoon) announced on the 22nd that it will release the beta version of its pre-trained language model 'Solar' and make the model publicly available for free until March 31st. You can try both general conversational models and translation-specific models through a simple API call.
+
+Solar is the world's best SLM that surpassed big tech models such as Alibaba and MistralAI to take first place in the Hugging Face 'Open LLM Leaderboard' in December. It is characterized by its small but powerful performance and more than 2.5 times faster speed than GPT-3.5. It can input up to 4,000 tokens per prompt, and in the future, it will expand the processing scale to 64,000 tokens, which is significantly higher than big tech models such as 'MixedTral 8x7B' (32,000 tokens) and 'Llama2' (16,000) starting with the beta version.
+
+In addition, the translation model released together recorded a higher score than GPT-4 and DeepL in Meta's 'Flores' benchmark test, which is considered a barometer for machine translation evaluation. In particular, it maximizes accuracy by inferring meaning by synthesizing pre- and post-contexts and even the context and flow of conversations, beyond simple sentence translation. It provides Korean-English and English-Korean translation, and can process up to 32,000 tokens.
+
+The Solar beta test will run for five weeks from February 22nd to March 31st. You can use Solar for free during this period by simply registering on the Upstage website. In particular, it can be easily introduced by simply calling the API without any separate construction work, providing the optimal choice for both companies that are currently using or considering the introduction of generative AI.
+
+In addition, Upstage has prepared a special event to expand the Solar ecosystem and support companies' innovation in generative AI. It will select up to 10 excellent cases by evaluating various categories such as creativity and technological innovation for companies that utilize the Solar beta version, and give away a total of about 300 million won worth of API credits. Participation in the event can be applied separately through the Upstage website.
+
+In the future, Upstage will accelerate the development of 'purpose-trained' language models that can be applied to various domains, such as financial, insurance, medical, and educational fields, based on the performance of general purpose models confirmed on the global stage and the performance in the translation domain that surpasses GPT-4. Through this, it plans to target the global market with SLMs that can be applied to various areas of companies as its main focus.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to release the beta version of Upstage Solar, the world's No. 1 SLM, so that many people can try it." "In the future, Upstage will develop models that can be applied to various domains, such as translation-specific models that surpass GPT-4, and will strive to expand the global generative AI ecosystem beyond Korea."
+

@@ -1,0 +1,20 @@
+Upstage, which created the world's best open LLM model surpassing ChatGPT, joins hands with Connectwave to build the first generative AI service in the domestic e-commerce industry.
+
+Upstage (CEO Kim Sung-hoon) announced on the 11th that it has signed a contract to build a 'private (Private) large language model (Large Language Model : LLM)' based on generative AI for the first time in the e-commerce industry with Connectwave (CEO Lee Geon-soo), a specialized e-commerce company, on the afternoon of the 8th.
+
+On the afternoon of the 8th, the two companies held a contract ceremony at the Connectwave conference room in Parc One Building in Yeouido, Seoul, with key executives from both companies, including Upstage CEO Kim Sung-hoon and Connectwave CEO Lee Geon-soo.
+
+With the global generative AI craze brought about by OpenAI's ChatGPT, many companies are working hard to develop LLMs and launch new services as the future food. However, as concerns about the leakage of internal corporate data and the hallucination phenomenon, which generates incorrect information, have emerged as a chronic problem of generative AI, private LLMs that can solve this problem are gaining attention as an alternative. Private LLMs are solutions that are specialized in preventing information leakage and hallucination by learning only internal corporate data.
+
+In this regard, Upstage is joining hands with Connectwave to build the first private LLM in the industry. Connectwave has already secured the highest level of shopping product data in the domestic e-commerce industry, with about 1.4 billion Korean-based data in its data commerce platforms, Danawa and Enuri. The plan is to jointly develop and internalize a private LLM that can support various services based on Upstage's model.
+
+For example, consumers visiting Danawa and Enuri can easily find or recommend the optimal product they want by entering or tagging subjective or abstract attributes through the function supported by Connectwave's private LLM. Through this, it is a strategy to maximize the shopping satisfaction of consumers.
+
+Connectwave's shopping mall creation solution, 'MakeShop', will also be upgraded to a new level through private LLM. If Connectwave's private LLM is trained on the data of a specific shopping mall based on MakeShop, it will be possible to automate delivery inquiries, inquiries, and return consultations, and automatically summarize reviews of shopping malls as well as automatically develop copies of products. In particular, it is planned to support the installation of AI recommendation engines for each MakeShop shopping mall.
+
+Upstage rose to prominence as a global AI player by surpassing the performance of GPT-3.5, the basis of ChatGPT, and ranking first in the 'Open LLM Leaderboard' evaluation ranking operated by Hugging Face in August. In the future, Upstage plans to pioneer the private LLM market through commercialization of its own AI models, which have been recognized for their global competitiveness, and will further accelerate the creation of an ecosystem for domestic LLM independence through various attempts such as the '1T Club', which collects various forms of 1 trillion Korean tokens.
+
+Kim Sung-hoon, CEO of Upstage, said, "I am pleased to set a historic milestone in the industry for the first time with Connectwave, a domestic e-commerce powerhouse." "Good LLMs are made with good data, and we will present the best domain-specific AI service functions to customers through the best performance of Upstage's private LLM and quality Korean e-commerce data from Danawa and Enuri."
+
+Lee Geon-soo, CEO of Connectwave, said, "By building a private LLM for the first time in the industry with Upstage, Connectwave has set another innovative milestone in the domestic e-commerce industry." "In the midst of another huge transformation in e-commerce led by private LLMs, Connectwave will firmly establish itself as a leading player in the next-generation e-commerce platform from consumers, affiliates, and customers."
+

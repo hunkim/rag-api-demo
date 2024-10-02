@@ -1,0 +1,22 @@
+Now, you can use AI OCR and recommendation technology more easily and conveniently with the Upstage API series.
+
+Upstage, a leading AI startup in Korea, announced on the 6th that it has launched an API series that can easily utilize Upstage's AI OCR (Optical Character Recognition) and recommendation technology, which is at the global top level, in various fields, and has started accepting waitlist applications on its website.
+
+With the release of this series, Upstage plans to supply APIs to companies that want to easily and quickly apply AI technology. Upstage's API series provides OCR technology that extracts text from images and finds the desired information, and recommendation technology that analyzes user behavior data and provides personalized recommendations, based on the technology of AI Pack developed by Upstage.
+
+Corporate customers can introduce the desired AI function with the introduction of the API series alone, and can apply the highest performance AI to the field without complex data preprocessing or model learning processes. Upstage said that it has released the series so that more people can benefit from AI technology in various fields based on the AI technology that is already trusted by many customers such as Hanwha Life, Samsung SDS, LG Uplus, and Brandi through AI Pack.
+
+OCR API is an image character recognition solution developed by Upstage with a model optimized through numerous experiments on the latest structures based on massive real and integrated data learning strategies. OCR API boasts a significantly higher accuracy than that of competitors, and can recognize various formats such as handwriting, Chinese characters, and various forms such as one-character checkboxes that are difficult to recognize.
+
+In addition, OCR API provides business efficiency and reduced costs that are essential in business environments with amazing speed as the inference result value is completed with fast real-time processing speed. OCR API can accurately read and respond to any form of document to be processed, whether it is a document with rotation, crumpling, horizontal and vertical reading, or a complex background.
+
+Recommendation API is a solution that analyzes user behavior data based on Upstage's own AI recommendation technology and provides personalized recommendations. Recommendation API is the lightest recommendation technology that contains learning and inference in one API, and can immediately introduce personalized recommendations with code copy and paste.
+
+In addition, Recommendation API provides real-time recommendation results that change immediately according to the customer's behavior, and provides real-time recommendation results without complex operations for real-time processing. Recommendation API can be operated with little data, and can be used as it is without separate data access or conversion work, such as existing session logs and cookies.
+
+Upstage's AI recommendation technology is already well known as the best in the industry. Earlier this year, it received the Best Paper Award as the top 0.5% at the world's top data mining conference WSDM2023, and last year, it entered the top 12 in the AI recommendation competition hosted by ACM RecSys, one of the top conferences in the recommendation system field, and recorded the best ranking among domestic companies. In addition, it is widely known for its various awards, such as winning two silver medals at the AI recommendation Kaggle competition hosted by H&M.
+
+Meanwhile, Upstage is also operating AskUp Biz, a business version of the national representative Chat AI AskUp, as a service for companies. AskUp Biz is a service that can increase the efficiency and satisfaction of companies' work by optimizing it for the business environment, and consists of three parts: AskUp Doc, which can read various documents and obtain information with Chat AI, AskUp Web, which can provide information to website visitors with website information, and AskUp Slack, which can be used in Slack, a business tool. It has received a lot of attention, with hundreds of companies applying for it after its release.
+
+Upstage CEO Kim Sung-hoon said, "OCR and recommendation systems are the most widely used technologies in the AI·DX field, and Upstage will contribute to the success of its customers' businesses through the API series that can easily and quickly use these technologies."
+

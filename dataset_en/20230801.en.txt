@@ -1,0 +1,20 @@
+The generative AI model developed by Upstage, a leading AI startup in Korea, has surpassed OpenAI's ChatGPT and maintained its title as the world's best LLM.
+
+Upstage (CEO Kim Sung-hoon) announced on the 1st that its generative AI model has scored 72.3 points in the 'Open LLM (Large Language Model: Giant Language Model) Leaderboard' evaluation score operated by Hugging Face, the world's largest machine learning platform, surpassing the performance of GPT-3.5, the basis of ChatGPT, and ranked first.
+
+The Hugging Face Open LLM Leaderboard is considered a barometer of open-source generative AI models. More than 500 open models from around the world compete in the average score of four indicators, including inference and common sense ability, language understanding comprehensive ability, and hallucination prevention, and a reliable ranking is determined.
+
+Earlier this month, Upstage's 30B (30 billion) parameter model, which was released through Hugging Face, scored an average of 67 points, surpassing Meta's 'LLaMA 2' 70B model announced on the same day, and achieved the first place in Korea's LLM.
+
+In response, Upstage released a model that was fine-tuned based on the latest LLaMA 2 70B (70 billion) parameters with more data to solidify its global No. 1 position. As a result, the newly released Upstage 70B model recorded 72.3 points in the leaderboard evaluation, surpassing the 'FreeWillie2' model (71.4 points) of Stability AI, which has been ranked first since the announcement of LLaMA2, and regained the world's No. 1 position.
+
+In particular, Upstage's latest model has achieved a surprise by surpassing the benchmark evaluation score (71.9 points) of GPT-3.5, which is the basis of ChatGPT. As a result of the Hugging Face Leaderboard, Upstage is the first to surpass the score of GPT-3.5, which is the representative of generative AI models, proving that the small LLM developed by a domestic startup is sufficient to compete with the super-large models of global big tech companies.
+
+Upstage developed a model that surpasses GPT-3.5 in just two months by deploying the best manpower that swept the 'Kaggle' competition, which is called the AI Olympics, and international conference paper awards. This is the result of combining the company's differentiated technical assets, such as the construction of the first Korean natural language understanding (NLU) evaluation dataset 'KLUE', winning four titles at the ICDAR, the world's largest OCR competition, and the know-how of prompt engineering and fine-tuning accumulated through the operation of 'AskUp', a domestic representative generative AI service that has surpassed 1.3 million users.
+
+In the future, Upstage will embark on full-scale 'Private AI' market development through commercialization of its AI model, which has been recognized for its world-class competitiveness. Private AI is a solution that specializes in preventing information leakage and hallucination by training only internal data, and is attracting attention as an attractive alternative for companies that hesitate to introduce generative AI due to security issues.
+
+Now, companies can easily build and utilize the latest generative AI technology by introducing Upstage's LLM-based private AI, which is at the global top level. In particular, Upstage can greatly reduce the cost of introduction and operation by providing better performance with a model size that is more lightweight than the giant LLMs composed of tens of billions of parameters from big tech companies.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to confirm the world's best level of technology with the performance of Upstage's generative AI model that surpasses ChatGPT." He added, "In the future, Upstage will accelerate its dominance in the domestic and foreign private AI market based on its overwhelming technology."
+

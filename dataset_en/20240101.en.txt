@@ -1,0 +1,12 @@
+Upstage, a leading AI startup in Korea that developed the world's No. 1 open LLM 'SOLA', is stepping up as the world's top LLM company with a world-renowned scholar in the AI field.
+
+Upstage announced on the 00th that it has appointed Professor Kyung Hyun Cho, a top researcher in natural language processing, as an outside director.
+
+Professor Cho graduated from the Department of Computer Science at KAIST and received a Ph.D. in Computer Science from Aalto University in Finland. Afterwards, he co-researched a paper that revolutionized artificial intelligence translation with Professor Yoshua Bengio, one of the four giants in AI, at the University of Montreal. This paper is evaluated as presenting the concept of 'neural machine translation', which is utilized by most translators such as Google Translator.
+
+Professor Cho was appointed as a professor of computer science at New York University in 2015 and has produced outstanding research results in various AI areas, including multimodal fields. In 2019, he was appointed as a tenured professor at New York University, and in 2021, he was selected as the winner of the Samsung Ho-Am Prize in Engineering, the highest honor in Korea.
+
+Upstage plans to appoint Professor Cho as an outside director to enhance the stability of LLM and jointly discuss ways to develop AI technology. In particular, it is expected that Professor Cho will lead Upstage's AI vision together with his deep insight and broad vision as an expert.
+
+Upstage CEO Kim Sung-hoon said, "I am very pleased to be able to discuss the development of Upstage's AI technology with Professor Kyung Hyun Cho, a world-renowned scholar in the field of generative AI." He added, "We will continue to pursue various collaborations with world-renowned experts and institutions to achieve 'AGI for Work' in addition to technology development for the world's best LLM."
+

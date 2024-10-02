@@ -1,0 +1,22 @@
+Upstage and Law & Company announced that they will jointly develop a Korean law-specific large language model (LLM) and launch a Korean law-specific LLM to target the global legal service market.
+
+Upstage (CEO Kim Sung-hoon) announced on the 12th that it has signed a business agreement with Law & Company (CEO Kim Bon-hwan), a legal tech representative company, to jointly develop a Korean law-specific LLM 'Solar-Legal (tentative name)'. The signing ceremony was attended by Upstage's Vice President of Business, Kwon Soon-il, and Law & Company's Vice President, Jung Jae-sung, and Legal AI Research Institute Director, Ahn Ki-soon.
+
+According to a November 2023 report by Grand View Research, a global market research firm, the global legal service market size in 2022 is estimated to be about 1,253 trillion won (952.29 billion dollars), and it is expected to grow at an average annual rate of 4.5% until 2030. In particular, the growth of the legal service market is accelerating in line with the development of generative AI technology.
+
+In response, the two companies will jointly develop the first 'legal-specific LLM foundation model' in Korea that surpasses GPT-4 by utilizing their own technology capabilities and know-how in their respective fields, such as developing their own LLM and legal AI research. The result will be Solar-Legal, which is scheduled to be released in June this year.
+
+Upstage will be in charge of developing the LLM, which is the engine of Solar-Legal. To this end, it will develop a pre-trained model specialized in Korean law based on its own LLM 'Solar', which ranked first in the world in Huggingface's 'Open LLM Leaderboard' by learning legal data from Law & Company. After that, it plans to fine-tune the model and jointly promote the legal tech business in earnest.
+
+Law & Company provides a total of 160,000 legal data, including ▲4.43 million case data, the largest among domestic companies, ▲laws, ▲decisions, and ▲voter interpretations to Upstage. In addition, it will transfer its know-how and domain knowledge in learning legal data that it has accumulated for years as a legal AI company to enhance the performance of the Solar-Legal model. Law & Company has been conducting legal AI research with the best researchers with specialized legal knowledge since 2019 by establishing a legal AI research institute, and its own LLM is being used in various ways in the operation of its representative services 'Law Talk' and 'Big Case'.
+
+Solar-Legal will be first applied to Law & Company's B2B service-type software (SaaS) 'Super Lawyer', which provides legal research, briefing summaries, and Q&A. It will also provide a generative AI service optimized for institutions and law firms that require high security and performance in the form of 'on-premise', which is a built-in type.
+
+This is the first time that Upstage has entered the legal service field. Upstage is pioneering the field of generative AI from traditional industries to emerging fields such as on-device AI by utilizing the lightweight LLM Solar, which can be customized for various industries and companies.
+
+Law & Company plans to apply Solar-Legal to its own services sequentially to secure a super-gap technology competitiveness in the legal AI field. The two companies plan to use the launch of Solar-Legal as a stepping stone to dominate the domestic legal service market and accelerate their global market entry.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to lead the generative AI innovation in the legal field by joining hands with Law & Company, the leading legal tech company in Korea." He added, "In the future, Upstage will continue to enhance legal-specific AI models targeting the domestic and global legal service markets based on its own language model Solar, which is at the world's top level."
+
+Law & Company CEO Kim Bon-hwan said, "The global AI giant's fierce challenge to the Korean legal market is heightening the sense of crisis for the entire domestic legal tech industry." He added, "We will actively cooperate with Upstage to enhance our industry competitiveness and present innovative services that will change the landscape of the domestic and global legal tech market with the determination to defend the technological sovereignty of the Korean legal AI market."
+

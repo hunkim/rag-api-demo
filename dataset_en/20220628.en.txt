@@ -1,0 +1,24 @@
+Upstage, a leading AI startup in Korea, has rolled up its sleeves to improve the video content search experience of LG Uplus.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 28th that it has signed a contract with LG Uplus for 'Emotion Tag Extraction and Opinion-based Search Modeling'. Through this contract, the two companies will develop an AI engine that analyzes and searches for emotional keywords in video content reviews.
+
+Recently, with the development of OTT, the number of video contents has increased rapidly, and'semantic-based video search' has become an essential technology for improving video content search experience. Existing video searches are operated by manually assigning keywords suitable for videos, which has the problem of subjective keyword selection and high cost of manually creating and managing keyword dictionaries for all videos.
+
+In particular, since tag management is not possible outside of the input keyword, it affects the search experience, such as not being able to produce the desired result for the user. For example, if only the'scary' tag is managed, reviews containing'spooky' will be excluded from the search results.
+
+Upstage plans to build a model that finds and searches for the right reviews based on semantics even for vague and complex search keywords by using AI trained on LG Uplus data based on its technology proven by publishing a number of excellent papers at international AI conferences including NeurlPS, AAAI, ACL, and EMNLP and winning the first double-digit gold medal in Korea. In addition, Upstage plans to enable the discovery and management of new tags using AI-based analysis tools.
+
+In other words, while existing content was classified into genres such as horror and romance, it can be detailed by including emotions such as'spooky thriller movie' or 'romance movie that warms the heart', so customers can easily search or recommend content that suits their emotions.
+
+In addition, in order to internalize LG Uplus' AI capabilities, Upstage will enable continuous automated model updates using data accumulation and model learning methods.
+
+This is not the first time that the two companies have cooperated. Since the end of last year, Upstage has been cooperating with LG Uplus on AI service development and AI talent training through an advisory contract. In particular, at the LG Uplus press conference on the 9th, Hwang Kyu-byeol, LG Uplus' Chief Data Officer (CDO), explained the establishment of a cooperation system with startups and cited Upstage as a representative case.
+
+Upstage plans to do its best to enhance the competitiveness of LG Uplus services by applying data and AI technology to LG Uplus services through various cooperations and contribute to accelerating digital innovation.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to contribute to AI transformation beyond digital transformation by strengthening cooperation with LG Uplus." He added, "We will do our best to contribute to increasing customer satisfaction and enhancing competitiveness of LG Uplus through semantic-based video search, which is essential for improving the video search experience of users."
+
+LG Uplus' Jeon Byeong-gi, head of AI/Data Science (executive vice president), said, "The essence of search technology is how accurately we understand the needs of customers and provide the right results." He added, "LG Uplus will introduce an AI-based search service through continuous cooperation with Upstage, an AI specialist company, to innovate the user experience for media search."
+
+Meanwhile, Upstage plans to launch AI Pack, a one-stop solution that helps customers customize three AI technologies, including natural language processing search technology that enables semantic-based search, OCR technology that allows users to extract and use desired information from images, and recommendation technology that considers customer information and product and service features, in the second half of this year. By using AI Pack, which is attracting attention as a representative no-code and low-code service, it is possible to conveniently use the latest AI technology that supports data processing, AI modeling, and continuous updates.
+

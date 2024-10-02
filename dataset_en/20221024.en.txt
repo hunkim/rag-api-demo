@@ -1,0 +1,18 @@
+AI representative company Upstage is creating a venue to share the latest recommendation technology trends with the authors of AI recommendation papers recently published at a global conference.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 24th that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) to find out the latest trends in AI recommendation technology with the authors of the papers passed at the RecSys 2022 conference and the conference attendees on the 10th of next month.
+
+'Upstage Talks' started as an in-house technical lecture at Upstage in 20, and has been widely known through the sharing of Upstage's world-class performance in the Kaggle competition and lectures by Silicon Valley developers. This year, it is holding a regular event every month and is receiving a hot response from companies and the public interested in AI.
+
+This Upstage Talks will be held with the theme of 'Good Recommendation, Well-fitting Recommendation, New Recommendation', and will feature Lee Won-do and Park Min-joo, master's students at the Graduate School of Convergence Technology at Seoul National University, and Lee Soo-jin, a data analyst at Woongjin Thinkbig, as speakers on the topic of ▲trends in papers presented at the RecSys 2022 conference held in Seattle, USA last month ▲introduction of papers by authors ▲participation in the RecSys 2022 conference.
+
+This event, where you can meet the latest AI recommendation technology research directly explained by the authors of the papers, such as research on improving the accuracy of recommendation systems to respond to popularity bias and research on the use of negative preferences in music recommendations through contrast learning, is open to anyone who wants to hear about the latest AI conference trends, including AI developers who want to apply recommendation AI technology in practice.
+
+This event will be held online live from 8 p.m. on November 10th. Pre-participation applications will be accepted for two weeks from the 24th to November 9th through the Upstage website (www.upstage.ai) and the event page (https://bit.ly/3VRjuba).
+
+Upstage CEO Kim Sung-hoon said, "This event is a valuable opportunity to hear the latest trends in AI recommendation directly from the authors of excellent papers passed at RecSys 2022, which was held last month, which is the center of the Seargest technology that has recently emerged as the secret to the growth of all platform sales and essential technology." He said, "Upstage will continue to make more efforts to increase the understanding of AI by the public as well as AI developers through various opportunities to access advanced AI technology."
+
+Meanwhile, Upstage is developing a no-code-low-code solution called 'Upstage AI Pack' that can easily apply the latest AI technology to various industries based on its AI technology leadership proven by papers published at international AI conferences such as ECCV 2022, NeurlPS, ICLR, CVPR, and WWW, as well as winning more than 10 gold medals in Kaggle.
+
+Through 'AI Pack', Upstage helps customers use three AI technologies, including OCR technology, recommendation technology that considers customer information and product and service features, and natural language processing search technology that enables semantic-based search, at once and customized. By using 'Upstage AI Pack', you can easily use data processing, AI modeling, and metric management, and you can conveniently use AI technology that is constantly updated.
+

@@ -1,0 +1,20 @@
+Upstage, a leading AI startup in Korea, is preparing an event to introduce information on cutting-edge AI industries and to learn the know-how of 'AI Olympics' Kaggle.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced today that it will hold an online event 'Upstage Talks' (hereinafter referred to as Upstage Talks) on the 27th and 28th of this month, introducing the latest research on solutions by Kaggle gold medal-winning teams and human-AI interaction (HCI).
+
+'Upstage Talks' is an event that started as an in-house technical lecture at Upstage in 20 years and has been widely known through the sharing of Upstage's world-class performance in the Kaggle competition and lectures by software developers working at AI companies last month.
+
+This Upstage Talks will be held in the order of 'AI that helps improve the writing skills of teenagers, sharing Kaggle competition solutions' by Kaggle masters of the Upstage Global Residency team on the first day, the 27th, and 'Interaction-Centric AI' lecture by Professor Kim Joo-ho of the Department of Computer Science at KAIST on the 28th.
+
+In particular, the lecture on the 27th is attended by Song Won-ho, Park Hyun-byung, and Jung Ik-hyo, masters of the Upstage Global Residency team, who won the gold medal last month, and shares the know-how of Upstage, which has established itself as the top AI technology company in Korea by winning double-digit gold medals for the first time in Korea in just one year after its founding. Upstage has trained the best talents through the Global Residency program, which builds practical capabilities related to AI technology development by experiencing the actual field through mentoring by current experts, and has achieved this record by standing shoulder to shoulder with global AI representative companies such as NVIDIA and H2O.ai.
+
+In addition, the 'Interaction-Centric AI' lecture on the 28th will be attended by Professor Kim Joo-ho, who is serving as an associate professor of the Department of Computer Science at KAIST and a concurrent professor at the Kim Jae-chul AI Graduate School, and will introduce AI centered on interaction as an alternative to overcome the limitations of the model and data-centered AI paradigm. Professor Kim Joo-ho will show why the performance of AI models does not lead to better applications and improved user experience, and propose AI centered on interaction as a way to solve this problem.
+
+This event, which anyone interested in the AI field can attend, will be held online from 8 p.m. on the 27th and 28th. Pre-participation applications will be held for 10 days from the 18th to the 27th through the Upstage website (upstage.ai), and after the event, presentation videos and materials will be shared through the website and YouTube channel.
+
+Upstage CEO Kim Sung-hoon said, "This Upstage Talks is a valuable opportunity to learn the know-how of Upstage, the top AI company in Korea, and the latest trends in AI research." He added, "We plan to provide insights into AI to the public through various opportunities in the future."
+
+Meanwhile, Upstage is planning to launch the 'AI Pack', which can easily apply the latest AI technology to various industries, based on its AI technology leadership proven by papers published in international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and securing top Kaggle developers.
+
+Through the 'AI Pack', Upstage helps customers use the latest AI technology in the field by supporting not only data processing and AI modeling, but also continuous updates. The 'AI Pack' is a one-stop solution that helps customers use AI technology customized, such as OCR technology that can extract and use desired information from images, high-performance natural language processing search technology that can search for information with similar meanings, and recommendation technology that considers customer information and product and service features.
+

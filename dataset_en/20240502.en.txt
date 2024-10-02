@@ -1,0 +1,14 @@
+It can be easier to introduce the pre-trained giant language model (LLM) 'Solar' developed by Upstage.
+ 
+Upstage (CEO Kim Sung-hoon) announced on the 2nd that it has signed a "business agreement for cooperation in the Wanted LaaS (LLM-as-a-Service·LLM-as-a-Service) service" with Wanted Lab. The signing ceremony was attended by Upstage's Vice President of Business Kwon Soon-il and Wanted Lab's Head of AX Business Development Joo Hyung-min.
+
+Through this, the two companies will join hands in various fields such as ▲ support for expanding the use of generative AI source technology (Solar) ▲ joint cooperation for disseminating generative AI application technology (Wanted LaaS) ▲ cooperation in external promotion of success cases.
+
+Wanted LaaS is a solution that combines the know-how accumulated by Wanted Lab in developing and operating a large number of generative AI services. It provides ▲ an environment that allows easy development of generative AI services ▲ various LLM models ▲ automated testing environment ▲ detailed token usage management by project and preset unit ▲ RAG function for controlling hallucination in a subscription form.
+
+Solar is considered an optimized model for the enterprise LLM market, which is a small size but has faster speed and performance than big tech models. Recently, it has been installed as a representative pre-trained model in global platforms such as 'Amazon SageMaker JumpStart', which provides AI models on Amazon Web Services (AWS). Upstage plans to expand the introduction of generative AI to more companies through this agreement with Wanted Lab.
+
+Upstage CEO Kim Sung-hoon said, "Solar, which was developed by Upstage, presents an optimal choice for introducing LLM to companies with small but powerful performance and more than 2.5 times faster speed than OpenAI's GPT-3.5." He added, "Upstage will provide customized models to various industries and companies through cooperation with Wanted Lab to support widespread generative AI innovation."
+
+Joo Hyung-min, head of Wanted Lab's AX business development, said, "The fact that we can provide an environment where corporate customers can easily use Upstage's model, which has been verified through the top rankings of the Hugging Face leaderboard, and that the choice of language models is continuously expanding, will give corporate customers expectations." He added, "Starting with this agreement, we plan to showcase various activities that can help companies introduce generative AI and contribute to activating the domestic generative AI ecosystem."
+

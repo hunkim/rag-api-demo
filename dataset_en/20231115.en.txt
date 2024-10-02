@@ -1,0 +1,18 @@
+Upstage and QuandA are developing LLM (Large Language Model) that solves math problems for the first time in the domestic industry.
+
+Upstage (CEO Kim Sung-hoon) announced on the 15th that it has signed a contract with Masspresso (CEO Lee Yong-jae), operator of AI-based learning platform QuandA, to develop 'Private LLM specialized in math domain'.
+
+Previously, knowledge search engine Wolfram Alpha has launched a service that integrates ChatGPT plug-ins, and the generative AI domain is expanding to specialized knowledge such as mathematics. However, in the case of general-purpose models, errors are frequent even in simple calculations, and especially the 'hallucination phenomenon' that generates false information is a problem.
+
+In response, the two companies will work on the development of a specialized language model 'MathGPT (tentative name)' that can reduce hallucination and provide problem solving and explanations through mathematical reasoning. To this end, Upstage will take charge of the model's engine and fine-tuning, and QuandA will provide math-specific data for model training.
+
+Upstage will train the giant language model to understand complex mathematical formulas and concepts that are difficult to explain in natural language by learning QuandA's large-scale high-quality data based on its technology that ranked first in HuggingFace's 'Open LLM Leaderboard'. Through this, it is planning to showcase the world's No. 1 LLM that surpasses the performance of GPT-3.5 once again.
+
+With this cooperation with QuandA, Upstage has also made progress in the private LLM in the field of knowledge education. Upstage's private LLM is a solution that specializes in preventing hallucination by learning only internal data, and it has a particularly key competitive advantage in the education industry, where accurate answer generation is essential, such as explanations for problems.
+
+In the future, Upstage plans to further expand its private LLM territory based on its own language model 'SOLAR'. Upstage recently signed agreements with major companies in various industries such as Connect Wave, Lotte Shopping, and Metaverse Entertainment, and has begun to commercialize LLM in earnest. Starting with this, it plans to expand the application of generative AI in various industries such as the financial sector and the manufacturing industry.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to be able to apply private LLM in the math domain, which is considered an unknown area, with QuandA, the best AI learning platform in Korea." He added, "In the future, Upstage will lead AI innovation in various industries by utilizing the world's No. 1 LLM technology."
+
+QuandA CEO Lee Yong-jae said, "We will provide more personalized educational experiences to more students with 'MathGPT', which is developed by the two companies with the best technology." He added, "QuandA, which revolutionized the Asian education market with solution search, will create another technological innovation through AI tutors."
+

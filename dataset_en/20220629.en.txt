@@ -1,0 +1,18 @@
+Upstage, a leading AI startup in Korea, will showcase its financial innovation technology through AI to global companies in the Americas.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced that it will attend the 'Sustainability Week 2022' (hereinafter referred to as Sustainability Week) event held for four days from the 28th to July 1st in the United States and online.
+
+Sustainability Week is the largest event of the year held by the Inter-American Investment Corporation, a private industry in the Inter-American Development Bank (IDB), for the 23rd year since 1999, and this year it was held at the Miami Hilton Hotel under the theme of 'Thinking People to Action People'. The Latin American region is an emerging market with a population of 640 million and a purchasing power of $5 trillion, and this event is meaningful as an important venue for networking and business discussions with senior officials in Latin America.
+
+This year's Sustainability Week, which is attended by more than 300 local senior officials and 1,500 invited guests participating online, will share sustainable solutions and best practices for economic and social development in Latin America through various sessions in five major areas, including 'Climate Action', 'Financial Innovation', 'Sustainable Value Chain', 'Sustainable Digital Innovation', and 'Just Transition', through four days of online and offline hybrid events.
+
+Upstage will open an online booth as an excellent case in the 'Financial Innovation' field with the support of the Korean government, which participated as a diamond sponsor based on its AI technology leadership proven by papers presented at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and winning double-digit gold medals at Kaggle.
+
+'Upstage AI Pack' is a one-stop solution and a representative no-code, low-code service that is attracting attention as it helps customers use three AI technologies, including OCR technology that dataizes the information they want from images, recommendation technology that considers customer information and product and service features, and high-performance natural language processing search technology that can search for information similar in meaning.
+
+In particular, among them, 'Upstage OCR Pack', which is attracting attention as a key solution for digital innovation for automating work for financial companies with a lot of paperwork, uses AI engines to recognize characters with high accuracy not only in formal documents but also in non-formal images such as handwriting. In addition, it supports data processing for AI utilization, AI modeling, as well as continuous updates, and helps the latest AI technology to be used in the field.
+
+This year's Sustainability Week will also be attended by eight fintech companies leading Korea, including Upstage, Coupang Pay, Toss, and Sentbe, as well as global financial companies such as Bank of America, Citibank, and JP Morgan.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to be invited to this great opportunity to introduce 'Upstage AI Pack' to global customers who expect financial innovation." He added, "We will continue to promote innovation through AI to various global companies, not just financial customers."
+

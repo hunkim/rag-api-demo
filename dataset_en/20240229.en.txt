@@ -1,0 +1,18 @@
+Upstage and Polaris Office will introduce the world's first document software (SW) solution with on-device AI.
+
+Upstage (CEO Kim Sung-hoon) announced on the 29th that it will jointly develop and commercialize the 'on-device AI office' that operates generative AI itself with Polaris Office, a specialized office SW company.
+
+On-device AI, which can utilize generative AI without Internet connection by directly installing a lightweight giant language model (LLM) on personal terminals such as smartphones and computers, is emerging as a new paradigm. It operates even in a closed network environment such as government agencies and financial sectors, and has high security as it blocks the leakage of sensitive information by offline use.
+
+Accordingly, the two companies will embed Upstage's pre-trained giant language model (LLM) 'SOLLAR' into the global document SW 'Polaris Office' and introduce the world's first office solution based on on-device AI. It will be possible to use various functions of SOLLAR LLM, such as real-time document translation, information summary, and high-quality text generation, for document work.
+
+It is the first time that a domestic company has introduced on-device AI in the office SW market led by big tech companies such as Google and MS. Previously, 'MS 365 Copilot', which is linked to a generative AI chatbot in MS's office app, is a cloud-based service.
+
+Upstage plans to challenge the global market in earnest by joining hands with Polaris Office, which has 128 million users worldwide. Previously, Upstage has been making swift moves to expand its on-device AI area, including pushing for the installation of SOLLAR in LG Electronics' LG Gram notebook.
+
+Kwon Soon-il, Vice President of Upstage's Business Division, said, "We are pleased to set a milestone in developing the world's first document solution based on on-device AI with Polaris Office." He added, "In the future, Upstage will expand various generative AI services based on its world-class LLM technology and expand its presence in the global market."
+
+Lee Hae-seok, Vice President of Polaris Office's Business Division, said, "Unlike cloud-based AI, it is possible to use AI even in situations where Internet access is impossible, so the possibility of leakage of information and personal information in documents has been resolved at the source." He added, "It will be an option to introduce generative AI the fastest and most securely and achieve productivity improvement in companies, financial institutions, and government agencies."
+
+The on-device AI office with SOLLAR will be released starting with the Apple Mac operating system (OS) version, and purchase inquiries and pre-orders will begin on March 1st.
+

@@ -1,0 +1,28 @@
+AI startup Upstage's financial-specialized AI optical character recognition (OCR) solution supplied to Samsung Life Insurance, the No. 1 life insurance company in Korea, has achieved the highest accuracy in the industry, and has been evaluated as realizing document automation even in the insurance industry, which is considered the highest level of difficulty in document automation.
+
+Upstage (CEO Kim Sung-hoon) announced that its representative AI OCR solution 'Document AI', which was supplied to Samsung Life Insurance in April, achieved an average recognition rate of over 95 points.
+
+Upstage and Samsung Life Insurance verified the OCR recognition rate for seven types of insurance claim documents, including medical expenses receipts, and extracted an accuracy rate of over 95%, surpassing the initial target of 90%.
+
+OCR is an AI technology that extracts text data from images. The difficulty level varies depending on the form of the image, and among them, insurance document processing is considered the highest level of difficulty. In the case of medical expenses receipts, the document format varies greatly from hospital to hospital, and there is a lot of unstructured data such as handwriting, so it requires a high level of recognition technology.
+
+For this reason, most of the OCR models of other companies, which usually converge in the 80s, require human inspection of most documents. However, in the test with Samsung Life Insurance, the Upstage model, which recorded in the late 90s, showed that only 4% of the items actually require human modification, proving that it is possible to automate to a considerable extent.
+
+In addition, the model's versatility played a major role in the high score. Upstage Document AI can handle various types of documents by additionally learning only new data based on a pre-trained model. Upstage recorded an average recognition rate of over 95% by using only the basic model in the collaboration with Samsung Life Insurance, except for the pharmaceutical expenses receipt item.
+
+In addition, it drew attention by accurately recognizing images with tilted angles, wrinkles, and shadows. Recently, the demand for processing documents captured with smartphones has been increasing, so Upstage's technology, which accurately extracts text from high-quality images captured in various real-life environments, has been more noticeable.
+
+Through this collaboration with Samsung Life Insurance, Upstage has established a success story in automation in the insurance domain, which is considered difficult. It is a performance that proves that it is possible to easily introduce AI OCR and implement work automation in various industries such as banking, trade, distribution, and education, as well as the financial sector.
+
+Samsung Life Insurance said that the introduction of Upstage Document AI has automated the entire process from data entry to review and insurance payment, enabling it to provide uniform services at all times, even in situations where insurance claims are increasing rapidly.
+
+Upstage's AI OCR technology is already considered the best in the industry. Upstage has published numerous papers at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and recently swept the top four awards at the world's top AI OCR competition hosted by the 'International Conference on Document Analysis and Recognition (ICDAR)'.
+
+In the future, Upstage plans to strengthen cooperation with Samsung Life Insurance and further expand the OCR application area, such as expanding insurance claim documents. Already, various industries such as Samsung Life Insurance, Hanwha Life Insurance, POSCO Holdings, Samsung SDS, and HD Hyundai Global Service are introducing Upstage Document AI.
+
+A Samsung Life Insurance official said, "Through this collaboration with Upstage, we have strengthened the insurance payment service, which is the core value of insurance." "We will continue our efforts to innovate customer experience by utilizing various digital technologies."
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to have recognized the world-class Upstage AI OCR technology in the collaboration with Samsung Life Insurance, the No. 1 life insurance company in Korea." "In the future, Upstage will support the digital transformation of companies with AI solutions specialized in various domains, not just finance."
+
+Meanwhile, Upstage Document AI is a total AI solution that extracts letters and information from various image-type documents and digitizes them. It reduces costs and time by 82% compared to the manual processing method, and it is possible to secure performance with only 1/4 of the data compared to other companies with a pre-trained model. It supports two methods: 'Personal', which can be easily used in the cloud in the form of an API, and 'Enterprise', which provides a domain-specific interface according to corporate requirements.
+

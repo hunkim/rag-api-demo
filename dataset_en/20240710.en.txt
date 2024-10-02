@@ -1,0 +1,10 @@
+Artificial intelligence (AI) technology company Upstage announced on the 10th that it has signed a contract with Friendli AI to build an infrastructure for its translation model based on its large language model (LLM) 'SOLAR'.
+
+In February, Upstage released a translation model specialized in Korean-English translation in the form of an API (Application Programming Interface). It operates on the basis of SOLAR LLM and is characterized by deep learning translation that comprehensively comprehends the context before and after and infers the meaning, as well as grasping the context and flow of the conversation. In particular, it is highly accurate, surpassing OpenAI's GPT-4 and DeepL in the Meta's 'Florens' benchmark evaluation, which is considered a barometer for machine translation evaluation.
+
+In response, Upstage introduced Friendli AI's 'Friendli Dedicated Endpoint' to efficiently handle translation traffic of up to 100,000 per day. It automated service operation and significantly reduced GPU costs through the 'automatic scaling' function that dynamically adjusts GPU allocation according to traffic load.
+
+Friendli AI CEO Byung-Kon Jeon said, "We are very pleased to provide the best generation AI applications at the lowest cost by combining Upstage's best generation AI SOLAR model and Friendli AI's best generation AI infrastructure." He added, "Friendli AI and Upstage will work hard to help companies innovate in generation AI together."
+
+Upstage CEO Sung-Hoon Kim said, "We are pleased to optimize the cost of generation AI services in collaboration with Friendli AI." He added, "We expect that more people will be able to use the world's best translation model more quickly and easily."
+

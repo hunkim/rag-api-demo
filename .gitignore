@@ -6,4 +6,3 @@ __pycache__/
 chroma_db/
 .streamlit/
 papers
-dataset_en

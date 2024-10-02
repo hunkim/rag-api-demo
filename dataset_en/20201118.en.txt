@@ -1,0 +1,18 @@
+Upstage (CEO Kim Sung-hoon, www.upstage.ai), a startup to accelerate enterprise AI transformation, is joining hands with Naver Connect Foundation (Chairman Cho Gyu-chan) as an operator of the practical intensive education program 'Boost Camp AI Tech' in the AI field.
+
+'Boost Camp AI Tech' is a program that specializes in AI education by focusing on 'Boost Camp', a practical SW intensive education program that Naver Connect Foundation has been conducting since 2016. Naver Connect Foundation's hands-on education proved its expertise by growing about 83% of the graduates of 'Boost Camp 2019' into current developers. Therefore, 'Boost Camp AI Tech' is also expected to be a venue for fostering the main players who will lead the advancement of the domestic AI industry by working in the AI field after graduation.
+
+Recruitment of participants for 'Boost Camp AI Tech' will be held on the Naver Boost Camp website, and a total of 250 participants will participate from January next year for about 5 months.
+
+Upstage, which participates as an operator of 'Boost Camp AI Tech', is an AI transformation startup founded by global AI scholars, former Naver AI head Kim Sung-hoon, and Lee Hwal-seok, CTO, who achieved world-class results in the Naver Visual AI / OCR team. Since its launch in October, it has attracted attention not only in the AI industry but also in the entire IT field.
+
+'Boost Camp AI Tech' will be curated with a focus on project and team engineers who are applying AI to services and developing their capabilities. Accordingly, it will cover the basics and applications of computer vision, natural language processing, and recommendation systems, which are most widely used in business, and will also conduct lectures on practical projects in each domain, not just theory. In particular, it will provide an opportunity to gain solid AI practical experience, such as creating AI models that can be deployed, and will directly review the participants' practice results to help them strengthen their capabilities and grow.
+
+This program will be joined by Upstage and Choi Sung-joon, a professor of artificial intelligence at Korea University, Choi Sung-chul, a professor of industrial engineering and management at Gachon University, Lim Sung-bin, a professor of artificial intelligence at UNIST, Joo Jae-gul, a professor of AI at KAIST, Oh Tae-hyun, a professor of electronics and electrical engineering at POSTECH, and Shin Ki-jeong, a professor of artificial intelligence at KAIST, as well as industry experts who handle AI in the industry and masters of global AI challenge Kaggle.
+
+In addition, NAVER AI will also participate in the project process design and development, and it is expected to be an opportunity for participants to grow their capabilities by using the largest dataset in Korea to implement AI models.
+
+CEO Kim Sung-hoon said, "I am glad to be able to foster AI professionals and expand the technological base with Naver Connect Foundation at a time when domestic AI technology is becoming important," and added, "We will make efforts to organize a program to foster talents who can create business value so that we can expand the domestic AI ecosystem further."
+
+Meanwhile, Upstage provides consulting, including identifying the parts that can be innovated through AI technology among the problems of companies and building basic AI models and systems necessary for this. In addition, it provides successful AI transformation of companies through the improvement of their own AI competitiveness by supporting the training of AI talents within customer companies.
+

@@ -1,0 +1,18 @@
+The number of models registered on the Korean giant language model (LLM) evaluation leaderboard built by Upstage and the National Information Society Agency (NIA) has exceeded 100 in two weeks.
+
+Upstage (CEO Kim Sung-hoon) announced on the 11th that the Korean LLM evaluation leaderboard 'Open Ko-LLM Leaderboard,' which was opened on the 27th, has surpassed 100 registered models in two weeks since its release.
+
+The Open Ko-LLM Leaderboard, which Upstage built with NIA, is an open platform where anyone can register their developed Korean LLM and compete with other models. In particular, it has the advantage of being a Korean-specific leaderboard by building high-quality data that reflects the characteristics and culture of the Korean language.
+
+The Open Ko-LLM Leaderboard has seen a sharp expansion, with more than 100 models registered in two weeks since its launch, even during the Chuseok holiday. Various companies and academic organizations, from individual researchers to SKT, Maum AI, FortyTwoMaru (42Maru), Electronics and Telecommunications Research Institute (ETRI), and Korea University, are competing, drawing attention as they compete for rankings on a daily basis.
+
+In particular, the Open Ko-LLM Leaderboard is attracting attention as a barometer for evaluating the performance of Korean-specific LLMs, with famous Korean open-source models such as 'Ko-Alpaca,' Korea University's 'KULLM (Cloud),' and 'Polyglot-Ko' gathered. In particular, the head of Hugging Face's Asia-Pacific region directly mentioned the Upstage leaderboard on SNS, drawing attention from around the world.
+
+In the future, Upstage plans to hold various activities to promote the Korean LLM ecosystem, such as announcing the monthly leaderboard rankings and holding open seminars to invite researchers who developed the models. Researchers interested in participating in the leaderboard can check the details and participate in the Open Ko-LLM Leaderboard space on Hugging Face.
+
+Upstage plans to present a blueprint for strengthening Korea's AI competitiveness through the operation of the Open Ko-LLM Leaderboard. In particular, it lays the foundation for expanding the Korean LLM ecosystem by operating a leaderboard based on Korean data in addition to the existing evaluation system centered on English. In addition, it is expected to serve as a focal point for the domestic open-source LLM camp by allowing various researchers to freely share each other's models, and further enhance technology through joint research and exchanges.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased that the Open Ko-LLM Leaderboard has achieved a meaningful milestone of surpassing 100 models in two weeks," and added, "In the future, Upstage will strive to strengthen the growth of the domestic AI ecosystem and global competitiveness by presenting a benchmark for the performance of Korean-specific LLMs."
+
+Meanwhile, Upstage's LLM 'SOLAR' ranked first in the world in the open LLM leaderboard operated by Hugging Face in August with results that exceeded ChatGPT's benchmark score. Recently, Sol was registered in the main model of Poe, which has become a benchmark for high-performance models, with only four companies, OpenAI ChatGPT, Google PALM, Meta Llama, and Entropik Claude, previously listed.
+

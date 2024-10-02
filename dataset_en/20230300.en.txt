@@ -1,0 +1,20 @@
+‘ChatGPT with eyes’ AskUp gets smarter with GPT4.
+
+Upstage, a leading artificial intelligence start-up in Korea, announced on the 17th that it has introduced 'GPT4', the next-generation large language model released by OpenAI, to the 'AskUp' service that combines optical character recognition (OCR) technology and ChatGPT.
+
+AskUp is a KakaoTalk channel that combines ChatGPT with Upstage's optical character recognition (OCR) technology to understand and answer text in images when users take or send photos of documents. AskUp has gained great popularity, surpassing 200,000 users in just 12 days since its launch. It can be used by simply adding it through AskUp channel search on KakaoTalk.
+
+Upstage provides users with a more enhanced service experience by applying GPT4 to AskUp. GPT4 has learned from more data and has superior intelligence and contextual understanding than ChatGPT. Above all, its Korean language skills have been greatly improved.
+
+Upstage is expanding the 'Back to the Future' event, which provided 100 free messages every day, to commemorate the application of GPT4 and the surpassing of 200,000 friends on the AskUp channel. It will provide an additional 10 GPT4 utilization credits every day. If you put '!' in front of the message and have a conversation, AskUp will answer using GPT4. Considering that GPT4 is 15 times more expensive than the existing ChatGPT, it has greatly increased user convenience.
+
+With GPT4, AskUp can utilize knowledge in 27 languages, including Korean, and various fields, so it can answer not only in English but also in other languages such as Korean and Chinese. It can provide information and handle documents in various fields such as law, medicine, and education, so its usability is expected to increase even more.
+
+Along with this update, Upstage has upgraded AskUp to detect user intentions and emotions and have more friendly and fun conversations with users by conducting more sophisticated fine-tuning. Since its launch, AskUp has been highly praised by users for utilizing Upstage's prompt tuning know-how to receive optimal answers in Korean.
+
+In addition, in order to continuously increase the usability of users, Upstage is applying an optimized process and continuing to update it, improving the response speed of AskUp by more than two times. Upstage plans to continue to update on a daily basis to improve the limitations of generative AI, such as hallucinations and the inability to provide accurate information due to the difficulty of reflecting real-time information, even after the introduction of GPT4.
+
+Upstage plans to pursue cooperation with OpenAI and prepare to respond quickly to future changes and innovations.
+
+Upstage CEO Kim Sung-hoon said, "With the application of GPT4, the usability of AskUp has increased even more, and the entire nation will be able to experience innovative changes more conveniently." He added, "We will make efforts to provide more advanced services using GPT4 and others so that more people can experience AI through AskUp."
+

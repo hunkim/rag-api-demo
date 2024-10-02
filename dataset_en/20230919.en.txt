@@ -1,0 +1,16 @@
+AskUp, the nation's top Chat AI service developed by Upstage, provides education content recommendation and consultation services with Sebasi.
+
+Upstage announced on the 19th that it has developed 'Sebasi AI Counselor' using its AI chatbot 'AskUp' technology for education content company Sebasi (hereinafter referred to as 'Sebasi'). AskUp, which is being serviced by Upstage through KakaoTalk, has surpassed 1.4 million users, the largest in Korea, leading the popularization of generative AI.
+
+Sebasi is a concert-type lecture brand that started in 2011 and has produced numerous star lecturers, being called 'Korea's TED'. In addition, it provides various lecture and education contents for a better world with companies and institutions.
+
+Upstage has implemented 'Sebasi AI Counselor', which can have natural language-based conversations related to various lectures and education contents of Sebasi, by embedding its AI chatbot in Sebasi's web. You can enter the chat window directly through the chatbot logo ( "Ask Sebasi AI!" ) at the bottom of the Sebasi website.
+
+For example, if you enter the prompt "Tell me the popular lectures", Sebasi AI Counselor will provide detailed information such as popular lecture topics and speaker information, and links. Users can easily explore various lecture contents provided by Sebasi through additional questions or new conversations based on the conversation.
+
+This is the first time that Upstage's AskUp has been embedded for corporate use. In particular, Sebasi AI Counselor has learned internal lecture content data and increased user-customized experiences by reducing hallucination (hallucination) that creates false information compared to general models. In addition, Upstage's fine-tuning and prompt engineering know-how have been added to further enhance usability.
+
+Previously, Upstage developed its own model 'SOLAR' (hereinafter referred to as SOLAR) based on the world's best large language model (LLM) technology that surpasses ChatGPT's main model GPT-3.5. SOLAR is a 'private LLM' specialized in preventing information leakage and hallucination by learning internal company data, and recently started its first step with major companies such as Connect Wave and Lotte Shopping. In the future, Upstage plans to expand the area of ​​LLM applications specialized in various domains, including AI chatbot, customer-customized marketing, and AI-based customer counseling, using the SOLAR model.
+
+Upstage CEO Kim Sung-hoon said, "Through cooperation with Sebasi, we have set a meaningful milestone by applying Upstage's generative AI service for the first time in the education content domain." He added, "In the future, Upstage will expand its domain-specific generative AI service to all industries using the world's best LLM SOLAR model."
+

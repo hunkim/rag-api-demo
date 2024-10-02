@@ -1,0 +1,24 @@
+Upstage has succeeded in attracting a record-breaking investment and has entered the ranks of pre-unicorn companies.
+
+Upstage, a leading AI startup in Korea, announced on the 16th that it has raised about 100 billion won in Series B investment. This is about three times the size of the Series A investment, which was concluded at 31.6 billion won in 2021.
+
+This investment was led by SK Networks, KT, Industrial Bank of Korea, Shinhan Venture Investment, Hana Ventures, Mirae Asset Venture Investment, and IBK Industrial Bank.
+
+In addition, existing investors such as SBVA (formerly SoftBank Ventures), Primer Sage, CompanyK Partners, and Premier Partners also made follow-up investments, reaffirming their unwavering trust in Upstage's AI business.
+
+As a result, Upstage has secured a cumulative investment of about 140 billion won from seed investment to Series A and B. This is the largest amount of investment raised by an AI software company in Korea in recent years, and it is interpreted as recognition of its potential and growth as a pre-AI unicorn even in the midst of the venture investment cold wave.
+
+The background of this large-scale investment is that it has successfully established the corporate document and unstructured data digitalization solution 'Document AI' developed by Upstage earlier, and that it has proven its business performance and technical capabilities of its own pre-trained large language model (LLM) 'Solra' launched in December on the global stage.
+
+Above all, there are only a few companies in the world that have developed and commercialized pre-trained models like Upstage. Upstage is achieving results in various fields such as finance, law, and on-device AI with Solra, and is creating cooperation cases with leading global companies, such as signing a technology transfer contract with a leading telecommunications company in Southeast Asia to build a specialized LLM. It is analyzed that there is a good chance of success in the overseas market by combining it with the Document AI solution that has realized document processing automation in collaboration with a leading insurance company in Korea.
+
+In fact, profitability indicators are also improving remarkably. In the first half of last year, it secured new contracts worth 10 billion won in a short period of time by launching Document AI and Solra LLM commercialization in the second half of the year, recording a growth rate of more than twice compared to before the product launch. In addition, in the first quarter of this year, it achieved results equivalent to last year's new contract amount by expanding the global business of Solra and pioneering markets with high demand for document processing such as finance, insurance, and medical care with the Document AI product. Currently, it is discussing additional contracts worth 30 billion won at home and abroad, and it is expected to achieve more than twice the sales growth compared to last year this year.
+
+Solra is equipped with faster speed and performance than big tech models with smaller sizes, and is considered an optimal model for the enterprise LLM market, where speed and cost-effectiveness are key. In addition, it has its own technological capabilities for model performance enhancement such as 'DUS (Depth-Up Scaling; Depth Expansion Scaling)' and has been certified by the world's most prestigious academic conferences.
+
+As proof of this, Solra has recently been included as a representative pre-trained model in global platforms such as 'Amazon SageMaker JumpStart', which provides AI models on Amazon Web Services (AWS). In addition, it is creating a new ecosystem by producing more than 1,000 fine-tuning models based on the Solra English model released as open source.
+
+Upstage will further accelerate its global generative AI market offensive with this investment. It plans to expand its contacts with global enterprise companies by establishing a US subsidiary established at the end of February as a base, and to focus on discovering demand for building LLMs specialized for companies. In addition, it will enhance open source projects such as data preprocessing and language model evaluation platforms to expand the Solra ecosystem, and will also introduce various events such as global hackathons for AI developers around the world.
+
+Upstage CEO Kim Sung-hoon said, "Upstage has confirmed its expectations as a leading generative AI company in Korea by attracting the largest investment in its history despite the harsh investment environment." He added, "Through this investment, we will become a company that achieves results and is recognized on the global stage, including the United States, Japan, and Southeast Asia, and will continue to enhance Solra as the world's best language model."
+

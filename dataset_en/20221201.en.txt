@@ -1,0 +1,24 @@
+Upstage, a leading AI company in Korea, will hold a time to reveal the secrets of creating good data by the authors of its data papers presented at the global AI top conference.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 1st that it will hold an online event 'Upstage Talks' (hereinafter Upstage Talks) on the 20th to share research on how to create good data, the foundation of AI, with the authors of the papers submitted to the NeurIPS 2022 (hereinafter NeurIPS) workshop.
+
+'Upstage Talks' started as an internal technical lecture at Upstage in 2020 and has been widely known through the sharing of Upstage's world-class performance in the Kaggle competition and lectures by Silicon Valley developers. This year, the event is held on a monthly basis and is receiving a hot response from companies and the public interested in AI.
+
+This Upstage Talks will introduce data papers selected as panelists at the Human centered AI workshop at the NeurIPS conference, which is being held in New Orleans, USA until December 9th, and will introduce the latest data-related research. The speakers include Cha In-ha, Oh Joo-hyun, and Park Cheol-young of Upstage, who are the authors of the paper "Human-centered Proposition for Structuring Data Construction".
+
+The importance of data, which is the foundation of AI, is increasing over time, but it is known as a difficult topic to deal with in academia due to the difficulty of collecting a lot of good data, the high cost of data labeling, and the long time it takes to build a data set.
+
+According to the results of a survey conducted last year by UC Berkeley on graduates majoring in AI, the most difficult thing in applying AI to services was maintenance and re-learning of models (61.1%), followed by model monitoring (60.0%) and data labeling (38.2%), all of which are related to data.
+
+The NeurIPS paper to be covered at Upstage Talks is significant in that it is the first study in Korea to deal with data work and has been presented at a top-level conference. This Upstage Talks was organized to share ways to create good data that can improve the performance of AI in performing difficult data-related tasks.
+
+Unlike the general perception that data is concise and objective, human bias is applied to data for AI, and this event will also share the method to solve this problem and the experience of the speakers who have studied while performing data current affairs at Upstage. This event is open to anyone who wants to hear about the latest trends in data research, including data scientists who are working hard to create good data.
+
+The December Upstage Talks will be held online live from 8 p.m. on December 20th. Pre-participation applications will be available from the 1st to the 19th through the Upstage website (www.upstage.ai) and the event page.
+
+Upstage CEO Kim Sung-hoon said, "This event is a valuable opportunity to hear the latest trends in data research directly from the authors of excellent papers that have passed the NeurIPS 2022, which is currently being held in the United States, on data, the center of the Software 2.0 era." "Upstage will continue to make efforts to be the best partner for digital transformation of corporate customers through various research on AI as well as data."
+
+Meanwhile, Upstage is developing a no-code-low-code solution 'Upstage AI Pack' that can easily apply the latest AI technology to various industries based on AI technology leadership proven by papers presented at international AI conferences such as NeurlPS, ICLR, CVPR, ECCV, and WWW, and by winning double-digit gold medals in Kaggle.
+
+Through 'AI Pack', Upstage helps customers use three AI technologies, including OCR technology, recommendation technology that takes into account customer information and product and service features, and natural language processing search technology that enables semantic-based search, at once and customized. By using 'Upstage AI Pack', it is not only easy to utilize data processing, AI modeling, and metric management, but also provides continuous updates, allowing you to conveniently use the latest AI technology at all times.
+

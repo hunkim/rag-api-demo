@@ -1,0 +1,32 @@
+AI startup Upstage provides its taste-saving recommendation AI to Lotte ON, a leading domestic commerce platform, and leads the AI innovation in the distribution sector.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 5th that it has signed a 'Recommendation API Introduction and Use Agreement' with Lotte ON. Through this agreement, Upstage plans to provide a hyper-personalized product recommendation API for customers using Lotte ON's app and website.
+
+As the generative AI craze started by ChatGPT begins, interest in the use of 'AI' is at its peak, and various platforms in the distribution and e-commerce ecosystem are also paying attention to AI and applying various technologies.
+
+In particular, hyper-personalization is becoming an essential element in the growth of commerce platforms by recommending products based on specific behavior patterns such as search patterns, responses to purchased products, and shopping cart details, not just demographic data such as age, occupation, and gender.
+
+Upstage plans to provide Lotte ON with the recommendation API system it unveiled in March. Upstage has supplied its recommendation AI pack to fashion commerce 'Brandi' last year based on its technology, which has been confirmed by the publication of a number of excellent papers at international AI conferences including NeurlPS, AAAI, ACL, and EMNLP, and the first domestic company to win double-digit gold medals at Kaggle.
+
+The performance of Upstage's recommendation AI was once again proven in the process of Lotte ON's introduction. In various indicators such as click-through rate and transaction conversion rate related to sales, Upstage's recommendation AI performance recorded excellent indicators compared to global competitor AI companies' solutions. Upstage is famous for creating the best results by comparing various AI models by the company's internal recommendation AI team, challenge team for Kaggle competitions, and Hong Kong global residency team.
+
+The recommendation AI to be provided by Upstage plans to contribute to analyzing the taste and products of each customer based on the rich data of Lotte ON, a domestic leading commerce platform with 39 million members, and provide hyper-personalized product recommendations. In addition, Upstage plans to make continuous efforts to improve model performance through performance monitoring using AI-based analysis tools.
+
+Lotte ON is a platform launched in 2020 by integrating online and offline data from seven Lotte distribution affiliates, and recently strengthened its vertical commerce such as beauty, luxury, and fashion specialty stores, expanding its influence in the market. In particular, since December last year, it has been evaluated that consumer inflow has also increased as it has recorded its first MAU of 2 million since its inception.
+
+This collaboration between the two companies is expected to serve as an excellent example of synergy between large companies and startups by leveraging their strengths. Until now, open innovation (open innovation) has often been a case where large companies unilaterally apply the technology of startups, but Upstage and Lotte ON have been working together for about two years to introduce AI technology. Upstage has steadily enhanced its AI technology based on Lotte ON's insights and data related to commerce, and has been able to create the most suitable AI model for e-commerce and provide it to Lotte ON.
+
+These efforts shone in the four tests conducted from January this year. The purchase conversion rate in the recommendation area steadily increased from the first to the last fourth test. In particular, in the last fourth test, there was also an effect of improving the purchase conversion rate by 30% compared to the first test. The two companies aim to increase the purchase conversion rate by 50% compared to the initial period through performance improvement.
+
+In addition, Upstage evaluated that Lotte ON's IT technology also played a role in cooperation. Based on Lotte ON's data management, internalized IT technology, and self-developed advanced technology, the synergy of the two companies' cooperation was maximized, and AI technology could be introduced in a relatively short period of time.
+
+Upstage's 'Recommendation AI' technology is highly regarded in the global academic community. In March, it won the Best Paper Honorable Mention Award, which is awarded only to the top 0.5% of papers, at the 'WSDM2023' (hereinafter WSDM), a world-renowned conference in the field of web search and data mining. In addition, last year, it won the silver medal in the 'Personalized Fashion Recommendations' competition hosted by the global SPA brand H&M, just 0.004 and 0.007 points behind the first place.
+
+With this contract, Upstage's Seargest (search+suggest / search recommendation) AI technology will be expanded to commerce platforms. Seargest AI is attracting attention as a technology that applies both functions of finding and recommending products or content based on individual data and taste. Upstage recently applied the Seargest technology to AskUp, a representative chat AI in Korea that can be used on KakaoTalk, and announced AskUp Seargest at a press conference.
+
+The two companies plan to take the lead in AI innovation in the distribution sector by continuing discussions on the application of Upstage's AI solutions such as DocumentAI and AskUp Seargest, including technology exchange and education, and consulting between the two companies, starting with this contract.
+
+Kim Sung-hoon, CEO of Upstage, said, "Through this collaboration with Lotte ON, we will create a model case that various AI technologies can be of practical help in the commerce field," and added, "Upstage will lower the psychological and physical barriers of various corporate customers who want to use AI technology through the recommendation API and help customers use the technology more easily and conveniently."
+
+Nah Young-ho, CEO of Lotte ON, said, "We expect that the collaboration with Upstage, an AI company that is attracting attention not only in Korea but also in the world, will be an opportunity for both companies to grow," and added, "Starting with the personalized recommendation area, we will apply AI technology to various fields in the future and present customers with advanced commerce technology."
+

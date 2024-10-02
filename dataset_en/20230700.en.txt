@@ -1,0 +1,18 @@
+Based on the world's best openLLM model building experience, Upstage has joined hands with Hanwha Life to innovate the insurance industry in Korea for the first time.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 00th that it has signed a 'ChatGPT for Insurance' production contract with Hanwha Life. The two companies held a contract ceremony at Hanwha Life Building in Yeouido, attended by key executives from both companies, including Upstage CEO Kim Sung-hoon and Hanwha Life CEO Yeo Seung-joo.
+
+With the development of AI technology, services using AI are increasing in various industries. In particular, the financial sector is paying more attention to the use of AI to solve security issues such as information leakage. Active reviews are underway to provide customers with services such as recommending customized products that meet their needs and quickly and accurately answering customers' questions using private AI, which prevents internal information leakage by learning the data held by the company and prevents hallucination (hallucination) that generates incorrect information.
+
+In this flow, Upstage is collaborating with Hanwha Life, which is leading the AI innovation in the financial sector by recently applying Document AI Pack. Upstage has built its own KLUE, the first Korean natural language understanding (NLU) evaluation dataset, and has built its own AskUp, a domestic representative chat AI service used by 1.3 million people, and has used its world-class AI technology, which has been confirmed by ranking first in the global open LLM leaderboard. It has embarked on the development of private AI in collaboration with Hanwha Life.
+
+Through the collaboration, Upstage and Hanwha Life will build a 'ChatGPT for Insurance' that can accurately answer questions about the scope of compensation based on the policy and the presence of special terms based on the policy of the subscriber without the risk of information leakage. By using Hanwha Life's mobile platform 'Visible GA World', designers can receive detailed answers about the insurance they have subscribed to by asking questions in Chat AI.
+
+In addition, the two companies plan to provide AI services that help customers find the best insurance by explaining the terms and conditions and product summaries to customers who are looking for insurance that suits them in the future.
+
+Through the collaboration with Hanwha Life, Upstage will accelerate the development of private AI with leading companies in various industries, including the financial sector, including the banking and insurance industries. Upstage is also collaborating with top companies in various industries, including Hanwha Life, Samsung Life, KB, and others, using its own products such as Document AI Pack and AskUp Seargest, which are representative AI solutions in Korea.
+
+Upstage CEO Kim Sung-hoon said, "Through this collaboration with Hanwha Life, we will lead the industry innovation so that designers can get the information they want in the most convenient interface, and insurance companies can handle more efficient work." He added, "Based on the technology that built the world's best open LLM, we will become the leading company in private AI that companies can use conveniently without worrying about information leakage in various industries in the future."
+
+Hanwha Life CEO Yeo Seung-joo said, "Insurance is an important service closely related to the customer's life cycle, so it is essential to properly understand the customer's needs and provide accurate counseling and information, so it is essential to develop specialized AI." He added, "We will lead the financial AI innovation with Upstage."
+

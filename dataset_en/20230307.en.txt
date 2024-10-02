@@ -1,0 +1,29 @@
+Upstage, a leading AI startup in Korea, has once again proven the excellence of its recommendation technology at a world-renowned academic conference.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 7th that it has won the Best Paper Honorable Mention Award at 'WSDM2023' (hereinafter WSDM), which was held in Singapore.
+
+WSDM is a world-renowned conference in the field of web search and data mining, which is held annually under the auspices of ACM (Association for Computing Machinery) and marks its 16th anniversary this year. This year, it was held in Singapore from February 27th to March 3rd, and a total of 690 papers were submitted by researchers from the industry and academia, and only 123 (17.8%) were passed.
+
+Upstage presented a paper on the topic of 'Efficient Utilization of Multi-Level User Intent for Session-Based Recommendation through Atten-Mixer Network' through joint research with the research team of its Hong Kong subsidiary. The paper is a study on'session-based recommendation', which predicts the next action based on the recent user's behavior, and proposes a way to improve the recommendation performance by modeling the user's intention in a multi-level manner and proposing a new network structure called Atten-Mixer.
+
+In the past, there have been studies using various graph neural networks (GNNs) to identify the relationship between items in order to implement the'session-based recommendation' method, but there was a disadvantage that the model complexity increased exponentially when attempting to improve performance. In response, the Upstage research team utilized a simpler model that removes part of the neural network to focus on important parts for optimal recommendation, and overcame the limitations by optimizing the search space.
+
+In addition, in order to predict what items the user will select, the recommendation quality was further improved by considering both the features and relationships of the items to infer what items are likely to be selected next.
+
+For example, if a user searches for a wedding dress and then searches for furniture to purchase, the user's intention of marriage and decorating a new home is identified, and the accuracy of the product recommendation is increased by recommending items necessary for marriage.
+
+
+
+
+Upstage's research received a lot of attention and response from the WSDM2023 program committee and participants, and was selected as the Best Paper Honorable Mention Award on the last day of the competition, enhancing the significance of the research. This award is a prestigious award that is only given to the top 0.5% of the total submitted papers, and it recognizes the research capabilities and achievements of the Upstage-Hong Kong research team.
+
+WSDM evaluated Upstage's research by proposing a new approach to session-based recommendation by exploring multi-level inference of user intent. In addition, it was highly evaluated for its practicality by simplifying complex GNNs in session-based recommendation and designing a more effective model to significantly reduce the search space while improving performance by combining it with existing models through various online and offline experiments.
+
+In fact, Upstage has already applied the model proposed in this paper to actual online services for two years, and is improving the performance of the recommendation AI pack by showing significant improvements in business indicators in actual traffic from customers.
+
+Upstage AI Pack utilizes numerous models that have proven their performance through research achievements such as this paper and various competitions such as Kaggle, and selects the optimal recommendation models for each industry and customer's service environment to provide optimal recommendation results.
+
+Upstage is helping customers innovate AI by launching a no-code-low-code solution called 'Upstage AI Pack' that allows customers to use AI technologies such as recommendation technology and OCR technology, which can extract and use desired information from images, in a customized manner at once. By using AI Pack, you can easily utilize data processing, AI modeling, and metric management, and you can conveniently use the latest AI technology that is constantly updated.
+
+Kim Jae-bum, AI Product Leader at Upstage, who led this research, said, "I am very happy to have been recognized for the excellence of Upstage's recommendation technology in academia through research on commercial models that are being used in actual practice, not just at the academic level, through joint research with the Hong Kong research team." He added, "In addition to this achievement, we will create a better AI pack and contribute to customer success through various recommendation models that fit each industry and customer's service environment."
+

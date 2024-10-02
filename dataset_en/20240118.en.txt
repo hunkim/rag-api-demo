@@ -1,0 +1,16 @@
+Korea's leading AI company Upstage and public interest corporation Onnul have joined hands to build a legal-specialized LLM (Large Language Model) for the legal underprivileged.
+
+On the 18th, Upstage announced that it has signed an MOU with Onnul for the "joint development of a chatbot based on generative AI for the legal underprivileged" at the office of the corporation in Gangnam-gu, Seoul.
+
+Onnul is a public interest corporation established by the law firm Yulchon in March 2014. Onnul, which marks its 10th anniversary this year, has been steadily carrying out legal support and social contribution activities for the marginalized, including the expert guardianship project, which has been continuously carried out since its establishment, the integration of the mentally disabled into society, legal support for non-profit organizations and support for the non-profit ecosystem, support for the settlement of North Korean defectors, and legal support and social contribution activities for women and children/youth, the disabled, and the poor.
+
+The purpose of this MOU is to build a legal-specialized LLM that can contribute to the protection of the rights of the legal underprivileged and contribute to public interest. Upstage will develop a legal-specialized LLM based on its own Solra model, and Onnul will verify and improve the quality of the LLM based on the knowledge and experience of legal experts at Yulchon. Onnul expects to provide more convenient and accessible services to the legal underprivileged through collaboration with Upstage.
+
+Through this MOU, Upstage plans to continue to expand the specialized fields of LLM, following its existing fields such as mathematics and e-commerce, to legal. Upstage is pursuing a strategy of developing and supplying LLM specialized in each industry based on Solra.
+
+Upstage's Solra is evaluated as the optimal model for private LLM, which has excellent security and efficiency, the advantages of small LLM (SLM), and versatility that can be applied to various industries and domains. Upstage expects to provide innovative value of AI in the legal field through this legal-specialized LLM.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to build a specialized LLM that leads the protection of the rights of the legal underprivileged based on the data of Yulchon, the best law firm in Korea." He added, "We will utilize Solra, which is shining in various fields such as mathematics and e-commerce, to provide innovative value of AI in the legal field and develop an LLM service that can contribute to public interest."
+
+Onnul Chairman Yoon Se-ri said, "Through collaboration with Upstage, we will be able to provide more convenient and accessible services to the legal underprivileged." He added, "We hope that the legal-specialized LLM will be used to contribute to the protection of the rights of the legal underprivileged and contribute to public interest."
+

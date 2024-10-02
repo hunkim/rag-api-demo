@@ -1,0 +1,30 @@
+Upstage, a leading domestic AI startup, has unveiled its own pre-trained LLM (Large Language Model) 'Solar' and has joined the global LLM war in earnest.
+
+Upstage announced on the 14th that it has unveiled its pre-trained LLM Solar, which ranked first in the 'Open LLM Leaderboard' operated by Hugging Face, the world's largest machine learning platform. This result is even more meaningful as it is the world's top-performing model in the size of 30 billion parameters (30B) or less, which is considered the standard for small LLMs (SLMs).
+
+Upstage's Solar is an abbreviation for 'Specialized and Optimized Llm and Applications with Reliability', and Upstage developed the Solar model starting with its own Hugging Face No. 1 model, which attracted attention by surpassing GPT-3.5's benchmark score for the first time in the history of open LLMs in August.
+
+The Hugging Face Open LLM Leaderboard is considered a barometer for open source generative AI models. More than 500 open models from around the world compete for an average score of six indicators such as inference and common sense ability, language understanding comprehensive ability, and prevention of hallucinations, pronoun reference, and math solving ability.
+
+Upstage's 'Solar' is a pre-trained model composed of a small size for private LLMs that are good for companies to use, and is the world's first 10.7 billion parameter (10.7B) model. Upstage evaluated it as a model that has found the perfect balance between high intelligence and compactness. Upstage's Solar recorded 74.2 points in the leaderboard evaluation and ranked first overall. As a result, Upstage's Solar proved its performance far exceeding Alibaba's latest model, Qwen, with a size that is less than one-sixth of that of Qwen.
+
+
+Upstage optimized the performance of the small-sized Solar model through various research. Upstage applied its own Depth Up-Scaling method based on open source 7B models to find the optimal model size that combines the advantages of the 13B model, which is good but large, and the 7B model, which is small enough but has intellectual constraints. As a result, Upstage completed the expanded 10.7B with excellent data of more than 3 trillion tokens, and built the model with the optimal combination of size and performance.
+
+In addition, Upstage's Solar model did not use the leaderboard benchmarking data set in the pre-training and fine-tuning stages, but applied its own data set. This is in contrast to the cases of models that directly apply benchmark sets to increase leaderboard scores, and it proves that Solar can show high usability in general cases, such as actual business utilization of various tasks.
+
+In particular, it has attracted attention from the global stage by surpassing the performance indicators of MistralAI's latest model, Mixtral (Mixtral 8x7B), which recently became a unicorn with a corporate value of $2 billion. Mixtral is a model that has recently received the most attention by surpassing Meta's 'Llama' and GPT-3.5 by combining several small specialized models. Mixtral has shown the best performance among pre-trained models by combining eight specialized models of 7 billion parameters, but Upstage's Solar showed better performance in the benchmark evaluation despite being lighter than the Mixtral model due to its high modeling know-how and optimization technology.
+
+This Solar model is of great interest to the open LLM ecosystem as it is released for commercial use up to the pre-trained model. Upstage has released both fine-tuned models with high real-world usability and pre-trained models that can be used for additional learning. In particular, the pre-trained model, which can be used to raise the performance of the model on its own, has been released along with the fine-tuned model, and Upstage's Solar model has ranked first in the Hugging Face Leaderboard evaluation with a score of 66.04, surpassing Alibaba's Qwen, Meta's Llama 2, and MistralAI's Mistral pre-trained models, which are the representative models of small models.
+
+
+Through this, companies can build and operate various generative AI services by adding their own data and purposes based on Upstage's Solar model, drawing greater attention.
+
+Upstage plans to enter the global generative AI market in earnest based on its top technology through cooperation with global platforms such as AWS, Poe, and Together.ai. Upstage recently attended the 'AWS re:Invent 2023' event and explained the process and results of building and operating its own LLMs using AWS's cloud services and AI platforms, revealing its cooperation with AWS.
+
+In addition, Upstage will update the Solar model, which is registered as the main model on the global generative AI utilization platform Poe, so that the public can experience the highest performance of Upstage's LLM directly. Poe is a platform operated by Quora, where you can talk to various AI models and create your own chatbot by entering the desired prompt.
+
+Upstage has accumulated know-how in building models in various fields, such as building the world's first math GPT and e-commerce private LLM, ahead of this model development. Upstage is expanding the capabilities of LLMs to the inference domain, which is weak in generative AI, by building the world's best math GPT with Kakao and KT. In addition, it is securing its position as a strong player in the private LLM market by building the first private LLM in the e-commerce industry with ConnectWave.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are pleased to unveil a model that overwhelms the world's AI companies, and we hope that Upstage Solar will become a model for everyone." He added, "KT's strategic investment has been a great help, and we will continue to push for cooperation in the B2B market by utilizing the highest performance Solar model that can continue to widen the gap."
+

@@ -1,0 +1,22 @@
+The national AI startup Upstage leads the digital innovation through document automation by supplying the financial specialized AI solution 'OCR Pack' to the No.1 life insurance company in Korea, 'Samsung Life'.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 26th that it has signed a 'OCR Pack Supply Contract' with Samsung Life. Through this contract, Upstage will supply its representative AI solution 'OCR Pack' to Samsung Life and help automate 7 types of insurance claim documents, including medical expense receipts.
+
+Recently, the use of AI in the financial sector has become an essential requirement for innovation. Last year, the Korea Credit Information Service predicted in a recent report titled 'Financial AI Market Outlook and Utilization Status: Focusing on Banks' that the domestic financial artificial intelligence (AI) market will grow at an average annual rate of 38.2% and form a scale of 3.2 trillion won in 2026.
+
+In particular, among AI technologies, various financial companies are speeding up the development and enhancement of optical character recognition (OCR) technology. OCR is a technology that reads characters in an image as text data and extracts the data of the desired item, and it is attracting attention from the industry as the basis for AI innovation by efficiently processing electronic documents and various documents pouring out from banks.
+
+Upstage has published a number of excellent papers at international AI conferences such as NeurlPS, AAAI, ACL, and EMNLP, and recently, it has once again proven its global top AI OCR technology by sweeping the top spot in all four categories announced so far in the ICDAR Robust Competition, the world's top AI OCR competition.
+
+Upstage's OCR Pack is a no-code-low-code solution that can process various types of documents with one click, equipped with an easy-to-use UI. It can reduce costs and time by 82% compared to the existing manual processing method. In addition, it can reduce the cost of developing and operating OCR models directly by financial companies by 10th, and it is attracting attention from various financial customers by providing a pre-trained model that can secure performance with only 1/4 of the data compared to general-purpose models of global competitors.
+
+The excellence of Upstage's OCR Pack was once again proven in Samsung Life's verification process. In various document tests, including medical expense receipts, which are mainly used in insurance companies, Upstage's OCR Pack showed excellent performance compared to competitors. In particular, it showed the possibility of automating various documents required for insurance processing by expanding the processing documents to 7 types due to its excellent basic model performance.
+
+Upstage said that the OCR Pack development team, as well as the NLP team in charge of natural language processing technology, the Challenge team for the Kaggle competition, and the product design team, all worked together to build the best performance.
+
+Through this cooperation with Samsung Life, the introduction of OCR Pack in the financial sector, including the banking and insurance industries, is expected to be more active. Upstage is developing not only OCR Pack but also Recommendation AI Pack and is also collaborating with Brandy, LG Uplus, and Amorepacific.
+
+Kim Sung-hoon, CEO of Upstage, said, "We are delighted to supply OCR Pack to Samsung Life, the No.1 life insurance company in Korea." "Upstage will help financial customers' digital and AI innovation and contribute to customer success through OCR Pack, which has proven its world-class technology with achievements such as ICDAR 4th place."
+
+Meanwhile, Upstage is also operating AskUp Biz, a business version of the national Chat AI AskUp, as a service for companies that want to use AI more easily. AskUp Biz is a service that can increase the efficiency and satisfaction of companies by optimizing it for business environments, and it consists of three parts: AskUp Doc, which can read various documents and obtain information with Chat AI, AskUp Web, which can provide information to visitors to the website, and AskUp Slack, which can be used in Slack, a business tool. It has received hot responses, with hundreds of companies applying for it after its release.
+

@@ -1,0 +1,26 @@
+Based on the experience of utilizing AskUp, the domestic representative chat AI used by 1.2 million people, Upstage will join forces with the Ministry of Science and ICT to strengthen AI ethics and reliability.
+
+Upstage (CEO Kim Sung-hoon, www.upstage.ai) announced on the 15th that it was selected as the first company for the Ministry of Science and ICT's 'Relay Visit to AI Representative Companies for the Spread of AI Ethics and Reliability', and introduced its company and solutions and shared its experience in securing AI ethics and reliability.
+
+This on-site visit was conducted as part of the visit to representative companies in the AI field for the spread of AI ethics and reliability following the 'Meeting for Strengthening AI Ethics and Reliability' held on the 11th of last month. Park Yoon-kyu, the second vice minister, visited the Upstage research institute in Yongin and listened to the voices of the field.
+
+The event was attended by Park Yoon-kyu, the second vice minister of the Ministry of Science and ICT, and Choi Dong-won, head of the Artificial Intelligence-based Policy Division, as well as Lee Kang-hae, head of the Korea Information and Communication Technology Association, and Kwak Joon-ho, team leader, and Upstage's CTO Lee Hwal-seok, CSO Park Eun-jung, data team leader Han Ji-yoon, and marketing team leader Sohn Hae-in.
+
+CTO Lee Hwal-seok introduced and demonstrated the 'AskUp Seargest', which combines recommendation/search services using Upstage's representative AI solution, 'Document AI Pack', and the domestic representative chat AI 'AskUp' used by 1.2 million people.
+
+The 'Document AI Pack' is Upstage's representative document AI solution that can be used in various industries such as finance, insurance, and medical care. It converts images or PDF-formatted documents into text through OCR technology and extracts or analyzes and summarizes the contents of the necessary documents by eliminating repetitive manual work through natural language processing (NLP) technology.
+
+Customers can increase the efficiency and accuracy of document management and processing by using Upstage's Document AI Pack, and since its launch earlier this year, it has been successful in contracts with various customers in the financial sector, including Samsung Life Insurance and Hanwha Life Insurance, as well as in the industry, including POSCO Holdings and Samsung SDS.
+
+'AskUp Seargest' is a solution that can provide hyper-personalized recommendations in the form of chat by utilizing search and recommendation technologies (Search+Suggest). Upstage has developed a solution that provides the latest information to customers in the most convenient interface by providing the best search and recommendation technology secured by operating AI packs and the know-how of prompt engineering and fine-tuning accumulated by directly operating AskUp, which is used by 1.2 million people.
+
+'AskUp Seargest' can be applied to various domains and scenarios such as shopping, travel, movies, and books, and can be used in various fields such as customer service, marketing, and education, drawing attention from more than 100 companies.
+
+After the service demonstration, the participants shared their experience in securing AI ethics and reliability and discussed difficulties and suggestions. CTO Lee Hwal-seok shared his experience and know-how in preparing measures in terms of data management to prevent the leakage of sensitive personal information of individuals and to secure AI service ethics in the process of learning large amounts of data for cloud computing environments and AI model enhancement when applying the Document AI Pack.
+
+In addition, various efforts to secure AI ethics and reliability in the operation of 'AskUp' were also shared. Upstage introduced '? Search' for the first time in Korea to provide fact-based information to alleviate the hallucination phenomenon, which was pointed out as a disadvantage of generative AI, in the operation of 'AskUp'. In addition, various efforts are being made, such as masking treatment for personal information text and displaying rejection messages and refusing to output when inappropriate image generation requests are made.
+
+Park Yoon-kyu, the second vice minister of the Ministry of Science and ICT, emphasized, "In a situation where artificial intelligence is rapidly spreading into industries and our daily lives, securing ethics and reliability in all stages from technology development to utilization is becoming a prerequisite for industrial development." He said, "We will visit the industry to listen to the difficulties and support needs of domestic companies to proactively secure artificial intelligence ethics and reliability in their own products and services, and take the lead in spreading artificial intelligence ethics and reliability."
+
+Upstage CTO Lee Hwal-seok said, "As the era of generative AI such as ChatGPT opens, discussions on AI ethics and reliability are accelerating due to hallucinations and hate speech in ChatGPT." He said, "Upstage will continue its efforts to secure ethics and reliability, which are essential for the development of AI technology, through various efforts such as this event and discussions between the public and private sectors based on its leading AI technology."
+

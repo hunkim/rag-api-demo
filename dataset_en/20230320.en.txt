@@ -1,0 +1,26 @@
+'Eye-equipped ChatGPT' AskUp can be met in our company.
+
+Upstage, a leading artificial intelligence startup in Korea, announced on the 20th that it has launched 'AskUp Biz', a business version of the artificial intelligence chatbot service 'AskUp' that is popular on KakaoTalk channels, as a beta service.
+
+AskUp is an artificial intelligence chatbot service that combines OpenAI's next-generation language model GPT-4 and Upstage's optical character recognition (OCR) technology to provide various information and knowledge through natural language conversations. AskUp has been receiving high satisfaction and response from more than 250,000 users since it started as a channel friend on KakaoTalk on the 5th.
+
+AskUp Biz is a service that combines OpenAI's next-generation language model GPT-4 and Upstage's optical character recognition (OCR) technology to innovate various business processes in a business environment. AskUp Biz beta service can be applied immediately from the 20th on Upstage's website (https://www.upstage.ai/).
+
+AskUp Biz, which Upstage has launched for all domestic and foreign companies, consists of three parts: AskUp Doc, which can read various documents in the company and obtain information with Chat AI; AskUp Web, which can read homepage information and provide information to homepage visitors through Chat AI; and AskUp Slack, which can be used in Slack, a work tool.
+
+AskUp Doc is a service that allows you to obtain the desired information in a conversation through Chat AI among a large amount of documents. It is a web-based service that allows you to conveniently search for documents and information in the company, and helps customers to obtain the information they need without reading long documents themselves. You can select and process multiple documents at once, find the desired information within the document, and quickly check the contents with the summary function. You can also have a conversation with AskUp conveniently through the function that recommends expected questions during the conversation.
+
+In addition, when a user finds the desired information in the document through a question, the UpOCR result finds the location of the information in the document, allowing you to check the source of the information. In addition, through AskUp's multi-turn conversation, you can understand the context of previous questions and answers, so you can get additional information in a natural conversation format.
+
+AskUp Web is a solution that allows you to easily integrate AskUp chatbot into a company's website or brand homepage. By simply inserting a few lines of JavaScript code, the company can apply AskUp Web to its website.
+
+With AskUp Web, customers can easily obtain information about the company and products through Chat AI without reading detailed information in a long web page themselves. AskUp Web provides natural question and answer through Chat AI that reflects not only all the information on the company's homepage but also Google search results, and provides a function to highlight the location of information on the website through OCR technology. The company can conveniently guide customers by easily adding or deleting real-time information such as promotions and events generated every day through AskUp Web.
+
+AskUp Slack allows you to search, inquire, and brainstorm in one tool by linking with Slack, a work messenger. Through AskUp Slack, ChatGPT Pro can be experienced by all company members in Slack, and it also provides a function to answer questions about images or documents. In particular, unlike ChatGPT, which was only available for 1:1 conversations, AskUp Slack can be used not only in 1:1 DM but also in groups and channels, allowing multiple members to participate in the conversation with AskUp and obtain and share information together.
+
+AskUp Slack solves the hallucination problem of existing ChatGPT by providing search and simultaneous summary functions in combination with Google's real-time search, and allows you to have a conversation with the context of the company's documents or information. In addition, it is possible to set AskUp personality (Persona) for each channel, so it is possible to tune AskUp specialized in marketing, technology, or human resources depending on the Slack channel.
+
+Meanwhile, Upstage is also holding an event to provide OCR API, which has been popular for its high recognition rate as the eyes of AskUp and AskUp Biz, free of charge up to 30 times per account. Companies wishing to experience it can apply for the event on Upstage's website, just like AskUp Biz.
+
+Upstage CEO Kim Sung-hoon said, "AskUp Biz is a service that optimizes GPT-4 and OCR technology for business environments to increase the efficiency and satisfaction of companies' work." He added, "We will continue to provide the value of AI in actual work through AI technology and service innovation that meet business needs."
+

@@ -1,0 +1,18 @@
+Upstage (CEO Kim Sung-hoon, www.upstage.ai), a startup for accelerating corporate AI transformation, is publicly recruiting employees in the AI field.
+
+Upstage is a startup that provides consulting, including the identification of areas where innovation is possible for companies through AI technology and the construction of basic AI models and systems required for this. It was established in October by Kim Sung-hoon, a global scholar and former head of Naver Clova AI, who is well known for his 'Deep Learning for Everyone' lecture.
+
+In addition, Lee Hwal-seok, CTO, who achieved world-class results in the Naver Visual AI / OCR team, Park Eun-jung, CSO, who led the model team of Papago, the world's best translator, and Kim Jae-beom, former head of the Kakao AI team, Kim Sang-hoon, a grand master of Kaggle's global ranking 12th, and So Hae-in, in charge of NVIDIA AI education and development marketing, joined. And NYU Professor Cho Kyung-hyun and Hong Kong University of Science and Technology Professor Lei Chen are participating, and global AI personnel are joining Upstage.
+
+Upstage's talent recruitment areas include ▲Software engineer (Software engineer - Back-end, Front-end, Machine learning) ▲AI research engineer (AI research engineer) ▲Heroes ▲AI global residency (AI global residency).
+
+Upstage will focus on recruiting talented personnel in this recruitment. A special job called 'Heroes' has been added, which is a job area that is differentiated from general corporate recruitment. Heroes pioneer the things that are essential in the AI era and perform creative work that cannot be limited to existing jobs. From AI talent discovery, talent recruitment, and team building to AI problem setting, core product development, business strategy building, and actual service production, the expression of the work is familiar, but when performing the corresponding work in the AI business, it is faced with different challenges from before. It is named Heroes by breaking through it with a spirit of challenge.
+
+In addition, it will also develop the world's best AI talent through the recruitment of AI global residency (AI global residency). Through this course, you can experience not only the opportunity to develop technology with the former Papago and Clova development leaders, but also to solve various AI problems with the Kaggle grand master. In addition, it is possible to conduct world-class AI research in the academic community, including Hong Kong University of Science and Technology. The period is one year, and remote work is possible in a remote work format that supports pair programming and mentoring.
+
+The recruitment process for Upstage's talent recruitment is conducted through the online algorithm coding test after receiving the job application on the company's talent recruitment website (https://careers.upstage.ai), and the screening is conducted in the order of culture interview, technical interview, and executive interview. It is composed of a screening process centered on job duties to recruit excellent talents in each job group.
+
+In particular, Upstage has introduced a 'culture interview' in line with the company's mission of growing with the members who work together. The 'culture interview' is an interview that has an in-depth conversation between Upstage and the applicant, and it is a process that is essential in the AI field, which requires more intimate communication between team members.
+
+Upstage CEO Kim said, "Upstage considers talent enhancement as a top priority in order to respond to the rapidly growing AI market," and said, "We look forward to the active support of AI experts who will grow together on Upstage's AI rocket."
+

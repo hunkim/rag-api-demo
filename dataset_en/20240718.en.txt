@@ -1,0 +1,12 @@
+Artificial intelligence (AI) technology company Upstage announced on the 18th that it will offer a free course on large language model (LLM) development through the global online education platform 'DeepLearning.AI'.
+
+DeepLearning.AI is an education platform created by Andrew Ng, a professor at Stanford University in the United States, who is considered one of the world's four AI masters and a pioneer in deep learning. In addition to specialized courses by Professor Andrew Ng, various AI classes are being operated by big tech companies such as OpenAI, Google, Meta, and MS, and Upstage is the first Korean company to participate.
+
+Upstage will present an LLM pre-training lecture planned with Professor Andrew Ng based on the know-how of developing its own LLM 'Solar'. Pre-training is a process of training AI models with language skills based on a large amount of text data, and it forms the core of LLM development with high-level natural language processing capabilities such as sentence generation and context inference.
+
+Upstage CEO Kim Sung-hoon and CSO (Chief Scientific Officer) Park Eun-jung will personally explain the entire process of LLM pre-training from theoretical basics to dataset preparation, model training, and performance evaluation based on benchmark tests. The lecture is conducted in English, and anyone can take it for free with basic coding and machine learning knowledge.
+
+In particular, it will provide practical know-how such as how to reduce training costs by lightening parameters based on the core technology of Solar, 'DUS (Depthwise Separable Convolution)', and how to easily train additional data based on open source pre-trained models.
+
+Upstage CEO Kim Sung-hoon said, "I am glad to be able to lecture on Upstage's LLM pre-training know-how with Professor Andrew Ng, a world-renowned authority in deep learning research." He added, "In the future, Upstage will take the lead in enabling more people around the world to acquire the latest AI knowledge based on the philosophy of'making the world better with AI'."
+

@@ -1,0 +1,12 @@
+Upstage and MegaZone Cloud join hands to expand sales based on giant language models (LLMs).
+
+Artificial intelligence (AI) technology company Upstage (CEO Kim Sung-hoon) announced on the 11th that it has signed a business agreement (MOU) with cloud leading company MegaZone Cloud (CEO Lee Joo-wan) to cooperate in the creation of AI business in the financial and public sectors.
+
+Since this year, the introduction of generative AI has been accelerated in various industries such as insurance, medical care, and public institutions, and the market size is growing rapidly. According to market research firm IDC, the global AI market size is expected to reach $554.3 billion (about 700 trillion won) in 2024, and the domestic AI market is also expected to grow at an average annual rate of 14.9% to exceed 4 trillion won in 2027.
+
+In response, the two companies have signed a business agreement and decided to join forces to win orders for generative AI in the financial and public sectors. To this end, they plan to expand their sales base through joint sales and mutual cooperation, such as sharing necessary technologies.
+
+Upstage is building various industry-specific models based on its language model 'Sola', and is materializing cooperation cases with leading global companies such as optimizing Sola for Intel Core Ultra processors. In the future, it plans to further expand its domestic and foreign sales base based on Sola, which supports multiple languages such as Korean, English, and Japanese.
+
+Upstage CEO Kim Sung-hoon said, "We are pleased to expand our customized generative AI solutions for the financial and public sectors through partnership with MegaZone Cloud." He added, "In the future, Upstage will lead the innovation of customized generative AI for various industries and companies based on its world-class self-language model Sola."
+

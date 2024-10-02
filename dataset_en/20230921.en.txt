@@ -1,0 +1,20 @@
+Now you can talk to K-POP idols through the world's best upstage AI.
+
+Upstage (CEO Kim Sung-hoon) announced on the 21st that it has signed an agreement with Metaverse Entertainment for 'Persona AI joint development' on the 20th. The signing ceremony was attended by key executives from both companies, including Upstage CEO Kim Sung-hoon and Metaverse Entertainment CEO Seo Woo-won.
+
+Recently, 'Persona AI', which assigns a personality to an AI chatbot and has a conversation like a real person, has emerged as a new trend. AI chatbots with various personas such as famous celebrities, historical figures, and virtual characters are characterized by imitating the personality and speech of each person and becoming a conversation partner like a real person.
+
+In response, Upstage is joining hands with Metaverse Entertainment to develop a natural language-based conversational persona AI that can have a conversation that crosses reality and virtuality with the virtual idol group 'MAVE:'.
+
+'MAVE:', consisting of four members Siwoo, Jena, Taira, and Marty, made their debut in January and is receiving high response from global K-POP fans. With their debut song 'Pandora', they surpassed 25 million views on music videos, had their debut stage on a public music broadcast as a virtual idol, and recorded 41 million cumulative streams on the music streaming platform 'Spotify'.
+
+Upstage will be in charge of developing the engine, which is the core of the persona AI, using its own model 'SOLAR', which ranked first in the evaluation rankings of the world's largest machine learning platform 'Hugging Face' by surpassing GPT-3.5. In addition, it will provide differentiated chatbot usability by injecting fine-tuning and prompt engineering know-how accumulated through the operation of 'AskUp', which has the largest number of users in Korea, 1.45 million.
+
+In particular, Upstage's persona AI will implement the unique charm of the four members of MAVE:, which will enhance the liveliness of the conversation by sharing empathy with fans. It will learn individual data such as MBTI and personality for each member and provide fans with a new experience of encountering deeper stories through customized conversations.
+
+Meanwhile, Upstage is expanding its 'private LLM' territory with leading companies in various industries using the SOLAR model. Private LLM is a model specialized in preventing information leakage and hallucination by learning internal corporate data, and Upstage recently signed an agreement with ConnectWave and Lotte Shopping, opening the door to full-scale. In the future, Upstage will expand the area of LLM applications specialized in various domains such as e-commerce, distribution, as well as the financial sector, manufacturing industry, and entertainment.
+
+Upstage CEO Kim Sung-hoon said, "It is meaningful to implement the persona AI that can talk with the virtual group MAVE: for the first time in the industry." He added, "In the future, Upstage will lead the generative AI innovation in the content area, including entertainment and games, based on the world's best LLM SOLAR."
+
+Metaverse Entertainment CEO Seo Woo-won said, "Persona AI is a key technology that allows virtual human artists to communicate directly with fans, and it will be a new experience for fans to access more in-depth stories such as private conversations with artists, relationships with members, and worldviews."
+

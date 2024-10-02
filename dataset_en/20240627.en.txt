@@ -1,0 +1,14 @@
+AI technology company Upstage announced on the 27th that it has signed a strategic collaboration agreement (SCA) with Amazon Web Services (AWS) to jointly target the global AI market.
+
+Previously, Upstage has been collaborating with AWS by utilizing 'Amazon SageMaker', an AI model development and deployment service, for the development of its own giant language model (LLM) 'SOLLAR'. In addition, in March, it released 'SOLLAR Mini', a lightweight model of SOLLAR, through 'Amazon SageMaker JumpStart', a machine learning hub that provides foundation models, and 'AWS Marketplace', further expanding its LLM supply chain to AWS users around the world.
+
+Upstage will further accelerate the global AI market penetration of SOLLAR through this collaboration with AWS. Accordingly, it plans to discover customized LLM demand for various companies and public sectors around the world that use AWS cloud, and expand global sales based on SOLLAR, which supports multiple languages such as Korean, English, and Japanese.
+
+In addition, Upstage has been selected as a partner for the 'AWS ISV Accelerate Program', which supports joint sales of software based on AWS, in addition to signing the SCA. Through this program, the two companies plan to utilize the global AWS customer and partner network to jointly discover and promote global sales opportunities for SOLLAR.
+
+AWS Public Sector Representative Yoon Jung-won said, "We are pleased to expand our generative AI services with Upstage to the global market." He added, "This will allow companies in various industries to create new business models by utilizing Upstage AI solutions provided on the AWS cloud. We expect that this collaboration between the two companies will increase access to the latest technologies and accelerate the adoption of AI by companies."
+
+Upstage CEO Kim Sung-hoon said, "Through strategic collaboration with AWS, which leads the global cloud market, companies around the world will be able to introduce the latest generative AI services more easily and quickly." He added, "Upstage will support more companies to enjoy the benefits of AI based on the global AWS cloud."
+
+Meanwhile, Upstage will participate in the 'AWS Summit', an event for the public sector, held in Washington, DC, USA on June 26 and 27 (local time). Through this, Upstage will meet with key AWS executives as well as various public sector officials to concretize cooperation and explore potential customers.
+
