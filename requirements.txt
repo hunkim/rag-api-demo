@@ -1,0 +1,7 @@
+openai
+streamlit
+langchain
+langchain_upstage
+fpdf
+
+
