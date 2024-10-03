@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 
 # Initialize ChatUpstage
 default_llm = Chat(model="solar-pro")
+solar_mini_llm = Chat(model="solar-1-mini-chat")
 
 from abc import ABC, abstractmethod
 from typing import Dict, Any, Optional
@@ -49,19 +50,30 @@ class SolarGenBaseClass(ABC):
 
 def get_judge_score(context, question, answer, answer_likert_scale_prompt, max_attempts=3):
     for attempt in range(max_attempts):
-        score_judge = SolarGenBaseClass(name="score_judge", context=context + "\n\nQuestion: " + question + "\n\nAnswer: " + answer)
-        score_text = score_judge.generate(answer_likert_scale_prompt, llm=default_llm)
+        score_judge_pro = SolarGenBaseClass(name="score_judge_pro", context=context + "\n\nQuestion: " + question + "\n\nAnswer: " + answer)
+        score_judge_mini = SolarGenBaseClass(name="score_judge_mini", context=context + "\n\nQuestion: " + question + "\n\nAnswer: " + answer)
+        
+        score_text_pro = score_judge_pro.generate(answer_likert_scale_prompt, llm=default_llm)
+        score_text_mini = score_judge_mini.generate(answer_likert_scale_prompt, llm=solar_mini_llm)
+        
         try:
-            score = int(score_text.strip())
-            if 1 <= score <= 5:
-                return score
+            score_pro = int(score_text_pro.strip())
+            score_mini = int(score_text_mini.strip())
+            
+            if 1 <= score_pro <= 5 and 1 <= score_mini <= 5:
+                if score_pro == score_mini:
+                    return score_pro
+                elif attempt == max_attempts - 1:
+                    return (score_pro + score_mini) / 2
             else:
                 raise ValueError("Score out of range")
         except ValueError:
             if attempt < max_attempts - 1:
-                print(f"Invalid score: {score_text}. Retrying... (Attempt {attempt + 2}/{max_attempts})")
+                print(f"Invalid scores: Pro: {score_text_pro}, Mini: {score_text_mini}. Retrying... (Attempt {attempt + 2}/{max_attempts})")
             else:
-                print(f"Failed to get a valid score after {max_attempts} attempts. Using default score of 0.")
+                print(f"Failed to get valid scores after {max_attempts} attempts. Using average of last attempt.")
+                return (score_pro + score_mini) / 2 if 'score_pro' in locals() and 'score_mini' in locals() else 0
+    
     return 0
 
 def main():
