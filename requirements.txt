@@ -3,5 +3,6 @@ streamlit
 langchain
 langchain_upstage
 fpdf
+matplotlib
 
 

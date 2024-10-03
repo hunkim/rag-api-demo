@@ -13,6 +13,9 @@ chat: $(VENV)/bin/activate
 autochat: $(VENV)/bin/activate
 	$(STREAMLIT) run autochat.py 
 
+benchmark: $(VENV)/bin/activate
+	$(STREAMLIT) run benchmark.py
+
 put_files: $(VENV)/bin/activate
 	$(PYTHON) put_files.py
 
